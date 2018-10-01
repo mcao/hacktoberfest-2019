@@ -42,3 +42,9 @@
 - Place: Massachusetts, USA
 - Bio: Student at LSE
 - GitHub: [Kelsey Cooper](https://github.com/kelseydcooper)
+
+#### Name: [Anastasis Xouzafeiris](https://github.com/anksos)
+
+- Place: Brno, CZ
+- Bio: VMware Engineer
+- Github: [Anastasis Xouzafeiris](https://github.com/anksos)
