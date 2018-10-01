@@ -23,9 +23,9 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-## Getting Started - Hard
+## Getting Started - Difficult
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Install git on your computer
+* Install git on your computer https://git-scm.com
 * Clone your fork down to your local machine
 
 ```markdown
@@ -87,7 +87,7 @@ Your School
 ```
 
 ### 3. Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `language_helloworld_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```js
 // LANGUAGE: Javascript
@@ -98,11 +98,11 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
+Name the file `language_helloworld_yourusername.xx`. e.g., `js_helloworld_mcao.js` or `py_helloworld_mcao.py`.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [helloworld-mcao.js](https://github.com/mcao/hacktoberfest/blob/master/scripts/helloworld-mcao.js)
+Here is my `hello_world` example: [js_helloworld_mcao.js](https://github.com/mcao/hacktoberfest/blob/master/scripts/js_helloworld_mcao.js)
 
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe!
@@ -122,6 +122,3 @@ Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)

@@ -7,3 +7,8 @@
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
 - GitHub: [Dylan Sprague](https://github.com/Pavillin)
+
+#### Name: [Caleb X Berger](https://github.com/c-x-berger)
+- Place: Indiana, USA
+- Bio: Hamster 
+- GitHub: [Caleb X Berger](https://github.com/c-x-berger)
