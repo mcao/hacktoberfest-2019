@@ -17,3 +17,8 @@
 - Place: Colorado, USA
 - Bio: Student at CU Boulder
 - GitHub: [Kevin Yang](https://github.com/keyaa)
+
+### Name: [Joseph Reed](https://github.com/josephreed2600)
+- Place: California, USA
+- Bio: CS major and FRC alumnus
+- GitHub: [Joseph Reed](https://github.com/josephreed2600)
