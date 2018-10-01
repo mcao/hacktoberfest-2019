@@ -54,3 +54,8 @@
 - Place: Brno, CZ
 - Bio: VMware Engineer
 - Github: [Anastasis Xouzafeiris](https://github.com/anksos)
+
+### Name: [Billy Wong](https://github.com/billywongstuy)
+- Place: New York, NY
+- Bio: Student
+- Github: [billywongstuy](https://github.com/billywongstuy)
