@@ -17,3 +17,9 @@
 - Place: Colorado, USA
 - Bio: Student at CU Boulder
 - GitHub: [Kevin Yang](https://github.com/keyaa)
+
+
+#### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
+- Place: Massachusetts, USA
+- Bio: Student at LSE
+- GitHub: [KelseyDCooper](https://github.com/kelseydcooper)
