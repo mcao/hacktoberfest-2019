@@ -36,3 +36,9 @@
 - Place: Connecticut, USA
 - Bio: A mom and a coder
 - GitHub: [Emily Colón](https://github.com/emilycolon)
+
+#### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
+
+- Place: Massachusetts, USA
+- Bio: Student at LSE
+- GitHub: [Kelsey Cooper](https://github.com/kelseydcooper)
