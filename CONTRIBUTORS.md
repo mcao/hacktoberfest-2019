@@ -21,6 +21,11 @@
 - Bio: Student at CU Boulder
 - GitHub: [Kevin Yang](https://github.com/keyaa)
 
+#### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
+- Place: Massachusetts, USA
+- Bio: Student at LSE
+- GitHub: [KelseyDCooper](https://github.com/kelseydcooper)
+
 ### Name: [Joseph Reed](https://github.com/josephreed2600)
 - Place: California, USA
 - Bio: CS major and FRC alumnus
