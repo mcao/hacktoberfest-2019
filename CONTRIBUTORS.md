@@ -37,6 +37,12 @@
 - Bio: A mom and a coder
 - GitHub: [Emily Colón](https://github.com/emilycolon)
 
+#### Name: [Ben Ryan](https://github.com/redraskal)
+
+- Place: St. Louis, MO
+- Bio: Random person that codes & plays Overwatch
+- Github: [redraskal](https://github.com/redraskal)
+
 #### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
 
 - Place: Massachusetts, USA
