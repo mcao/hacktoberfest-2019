@@ -59,3 +59,8 @@
 - Place: New York, NY
 - Bio: Student
 - Github: [billywongstuy](https://github.com/billywongstuy)
+
+#### Name: [William Nicholas](https://github.com/bizkhal1fa)
+- Place: Boston, MA
+- Bio: Data Analytics Developer
+- GitHub: [bizkhal1fa](https://github.com/bizkhal1fa)
