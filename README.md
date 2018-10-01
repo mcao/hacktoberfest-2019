@@ -23,12 +23,12 @@ Choose one or all 3, make one (or more) pull requests for your work and wait for
 
 ## Getting Started - Easy
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Navigate to `CONTRIBUTORS.md``
+* Navigate to `CONTRIBUTORS.md`
 * Edit the file and insert your name, then click on Commit Changes.
 * Navigate to the `profiles` directory
 * Click `Create new file` and create a new profile following the instructions below.
 * Commit your changes.
-* If you would like, navigate to the ``scripts`` directory and create a sample Hello World script!
+* If you would like, navigate to the `scripts` directory and create a sample Hello World script!
 * Click on `New pull request` on your forked repo and submit a PR!
 
 ## Getting Started - Hard
