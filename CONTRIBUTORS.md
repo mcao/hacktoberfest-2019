@@ -12,3 +12,8 @@
 - Place: Indiana, USA
 - Bio: Hamster 
 - GitHub: [Caleb X Berger](https://github.com/c-x-berger)
+
+#### Name: [Kevin Yang](https://github.com/keyaa)
+- Place: Colorado, USA
+- Bio: Student at CU Boulder
+- GitHub: [Kevin Yang](https://github.com/keyaa)
