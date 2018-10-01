@@ -59,3 +59,9 @@
 - Place: New York, NY
 - Bio: Student
 - Github: [billywongstuy](https://github.com/billywongstuy)
+
+#### Name: [Giovanni Nuño](https://github.com/gionuno)
+
+- Place: Guanajuato, Mexico
+- Bio: Student at Universidad de Guanajuato
+- GitHub: [Giovanni Nuño](https://github.com/gionuno)
