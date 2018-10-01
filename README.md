@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 Hacktoberfest Starter Project 🎃
 An 2018 version of https://github.com/AliceWonderland/hacktoberfest
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
@@ -8,7 +8,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community. The first 50,000 people to get 5 pull requests will recieve a free t-shirt!
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
@@ -19,20 +19,25 @@ Here are 3 quick and painless ways to contribute to this project:
 * Add a profile page to the `profiles` directory
 * Create a simple "Hello, World" script in a language of your choice
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Choose one or all 3, make one (or more) pull requests for your work and wait for it to be merged!
 
-## Getting started
+## Getting Started - Easy
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Navigate to `CONTRIBUTORS.md``
+* Edit the file and insert your name, then click on Commit Changes.
+* Navigate to the `profiles` directory
+* Click `Create new file` and create a new profile following the instructions below.
+* Commit your changes.
+* If you would like, navigate to the ``scripts`` directory and create a sample Hello World script!
+* Click on `New pull request` on your forked repo and submit a PR!
+
+## Getting Started - Hard
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Install git on your computer
 * Clone your fork down to your local machine
 
 ```markdown
 git clone https://github.com/your-username/hacktoberfest.git
-```
-
-* Create a branch
-
-```markdown
-git checkout -b branch-name
 ```
 
 * Make your changes (choose from any task below)
@@ -40,8 +45,8 @@ git checkout -b branch-name
 
 ```markdown
 git add .
-git commit -m 'Commit message'
-git push origin branch-name
+git commit -m "Commit message"
+git push origin master
 ```
 
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
@@ -106,10 +111,10 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_alicewonderland.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+Here is my `hello_world` example: [helloworld-mcao.js](https://github.com/mcao/hacktoberfest/blob/master/scripts/helloworld-mcao.js)
 
 ## BONUS!
-* See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
+* See profiles submitted by fellow coders from around the globe!
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
 
