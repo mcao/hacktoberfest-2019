@@ -82,3 +82,9 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Bharat Raghunathan](https://github.com/Bharat123Rox)
+
+- Place: Hyderabad, India
+- Bio: Student at BITS Pilani, Hyderabad Campus
+- GitHub: [Bharat123Rox](https://github.com/Bharat123Rox)
