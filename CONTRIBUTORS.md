@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Moh. Wahyu S. Putra](https://github.com/waysp)
+- Place: Jakarta, South Jakarta, DKI Jakarta
+- Bio: Software Engineer
+- GitHub: [Mohammad Wahyu Sanusi Putra](https://github.com/waysp)
