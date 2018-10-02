@@ -60,6 +60,11 @@
 - Bio: Student
 - Github: [billywongstuy](https://github.com/billywongstuy)
 
+#### Name: [Giovanni Nuño](https://github.com/gionuno)
+- Place: Guanajuato, Mexico
+- Bio: Student at Universidad de Guanajuato
+- GitHub: [Giovanni Nuño](https://github.com/gionuno)
+
 #### Name: [William Nicholas](https://github.com/bizkhal1fa)
 - Place: Boston, MA
 - Bio: Data Analytics Developer
