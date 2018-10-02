@@ -69,3 +69,8 @@
 - Place: Boston, MA
 - Bio: Data Analytics Developer
 - GitHub: [bizkhal1fa](https://github.com/bizkhal1fa)
+
+#### Name: [bwoconnor](https://github.com/bwoconnor)
+- Place: Fairfield, CT
+- Bio: New Software Engineer
+- GitHub: [bwoconnor](https://github.com/bwoconnor)
