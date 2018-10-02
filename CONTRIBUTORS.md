@@ -82,3 +82,9 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Eby Sofyan](https://github.com/ebysofyan)
+
+- Place: Mataram, NTB
+- Bio: Student at STMIK Bumigora Mataram
+- GitHub: [Eby Sofyan](https://github.com/ebysofyan)
