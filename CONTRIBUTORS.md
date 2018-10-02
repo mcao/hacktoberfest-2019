@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Anmol Goel](https://github.com/agoel00)
+- Place: New Delhi, IN
+- Bio: Computer Science Undergrad
+- Github: [Anmol Goel](https://github.com/agoel00)
