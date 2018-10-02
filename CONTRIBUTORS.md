@@ -87,4 +87,3 @@
 - Place: Thailand
 - Bio: Student at KMUTNB
 - GitHub: [Omigus](https://github.com/omigus)
-
