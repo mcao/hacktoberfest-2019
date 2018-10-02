@@ -82,3 +82,9 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [PHUNARA RUANGYOO](https://github.com/omigus)
+- Place: Thailand
+- Bio: Student at KMUTNB
+- GitHub: [Omigus](https://github.com/omigus)
+
