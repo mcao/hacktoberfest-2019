@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Vinayak](https://github.com/vinayak42)
+- Place: New Delhi, Delhi, India
+- Bio: Computer Science Undergraduate at IIIT-Delhi
+- GitHub: [vinayak42](https://github.com/vinayak42)
