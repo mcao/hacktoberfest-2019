@@ -1,7 +1,0 @@
-//Language: SQL
-//Author: William Nicholas
-
-CREATE TABLE HELLO (HELLO CHAR(12))
-UPDATE HELLO
-      SET HELLO = 'HELLO WORLD!'
-SELECT * FROM HELLO
