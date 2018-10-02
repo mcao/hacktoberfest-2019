@@ -69,3 +69,10 @@
 - Place: Boston, MA
 - Bio: Data Analytics Developer
 - GitHub: [bizkhal1fa](https://github.com/bizkhal1fa)
+
+#### Name: [Bryan Speelman](https://github.com/crayphix)
+- Place: Washington, DC 
+- Bio: Java Developer
+- GitHub: [crayphix](https://github.com/crayphix)
+
+
