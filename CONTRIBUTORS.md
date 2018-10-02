@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Jeremy CL](https://github.com/jeremycl)
+- Place: Montreal, QC, Canada
+- Bio: Computer Engineer, Software Dev
+- GitHub: [Jeremy CL](https://github.com/jeremycl)
