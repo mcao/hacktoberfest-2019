@@ -1,4 +1,4 @@
-#### Name: [Michael Cao](https://github.com/mcao)
+﻿#### Name: [Michael Cao](https://github.com/mcao)
 
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
@@ -69,3 +69,8 @@
 - Place: Boston, MA
 - Bio: Data Analytics Developer
 - GitHub: [bizkhal1fa](https://github.com/bizkhal1fa)
+
+#### Name: [Shiloh](https://github.com/datalorrre)
+- Place: Minnesota, USA
+- Bio: Computer Science Student
+- GitHub: [datalorrre](https://github.com/datalorrre)
