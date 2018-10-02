@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+### Name: [Li Jin](https://github.com/sljtheultima)
+- Place: Singapore
+- Bio: Student, Studying Information systems
+- GitHub: [Li Jin](https://github.com/sljtheultima)
