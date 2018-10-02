@@ -44,13 +44,11 @@
 - Github: [redraskal](https://github.com/redraskal)
 
 #### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
-
 - Place: Massachusetts, USA
 - Bio: Student at LSE
 - GitHub: [Kelsey Cooper](https://github.com/kelseydcooper)
 
 #### Name: [Anastasis Xouzafeiris](https://github.com/anksos)
-
 - Place: Brno, CZ
 - Bio: VMware Engineer
 - Github: [Anastasis Xouzafeiris](https://github.com/anksos)
@@ -75,4 +73,12 @@
 - Bio: Java Developer
 - GitHub: [crayphix](https://github.com/crayphix)
 
+#### Name: [bwoconnor](https://github.com/bwoconnor)
+- Place: Fairfield, CT
+- Bio: New Software Engineer
+- GitHub: [bwoconnor](https://github.com/bwoconnor)
 
+#### Name: [Dylan Fontana](https://github.com/dfontana)
+- Place: Boston, MA, US
+- Bio: Software Engineer, Cat Enthusiast >.<
+- GitHub: [Dylan Fontana](https://github.com/dfontana)
