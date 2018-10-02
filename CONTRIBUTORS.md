@@ -69,3 +69,8 @@
 - Place: Boston, MA
 - Bio: Data Analytics Developer
 - GitHub: [bizkhal1fa](https://github.com/bizkhal1fa)
+
+#### Name: [Dylan Fontana](https://github.com/dfontana)
+- Place: Boston, MA, US
+- Bio: Software Engineer, Cat Enthusiast >.<
+- GitHub: [Dylan Fontana](https://github.com/dfontana)
