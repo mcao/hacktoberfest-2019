@@ -78,6 +78,11 @@
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
 
+#### Name: [Jeremy CL](https://github.com/jeremycl)
+- Place: Montreal, QC, Canada
+- Bio: Computer Engineer, Software Dev
+- GitHub: [Jeremy CL](https://github.com/jeremycl)
+
 #### Name: [Vinayak](https://github.com/vinayak42)
 - Place: New Delhi, Delhi, India
 - Bio: Computer Science Undergraduate at IIIT-Delhi
