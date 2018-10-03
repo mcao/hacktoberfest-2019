@@ -10,7 +10,7 @@
 
 #### Name: [Caleb X Berger](https://github.com/c-x-berger)
 - Place: Indiana, USA
-- Bio: Hamster 
+- Bio: Hamster
 - GitHub: [Caleb X Berger](https://github.com/c-x-berger)
 
 #### Name: [Kevin Yang](https://github.com/keyaa)
@@ -64,7 +64,7 @@
 - GitHub: [bizkhal1fa](https://github.com/bizkhal1fa)
 
 #### Name: [Bryan Speelman](https://github.com/crayphix)
-- Place: Washington, DC 
+- Place: Washington, DC
 - Bio: Java Developer
 - GitHub: [crayphix](https://github.com/crayphix)
 
@@ -77,6 +77,11 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Chris Bigge](https://github.com/bitcolor)
+- Place: Missouri, USA
+- Bio: Student at the University of Missouri-Columbia
+- GitHub: [Chris Bigge](https://github.com/bitcolor)
 
 #### Name: [PHUNARA RUANGYOO](https://github.com/omigus)
 - Place: Thailand
