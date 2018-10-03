@@ -1,17 +1,14 @@
 #### Name: [Michael Cao](https://github.com/mcao)
-
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
 - GitHub: [Michael Cao](https://github.com/mcao)
 
 #### Name: [Dylan Sprague](https://github.com/Pavillin)
-
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
 - GitHub: [Dylan Sprague](https://github.com/Pavillin)
 
 #### Name: [Caleb X Berger](https://github.com/c-x-berger)
-
 - Place: Indiana, USA
 - Bio: Hamster 
 - GitHub: [Caleb X Berger](https://github.com/c-x-berger)
@@ -38,7 +35,6 @@
 - GitHub: [Emily Colón](https://github.com/emilycolon)
 
 #### Name: [Ben Ryan](https://github.com/redraskal)
-
 - Place: St. Louis, MO
 - Bio: Random person that codes & plays Overwatch
 - Github: [redraskal](https://github.com/redraskal)
@@ -87,3 +83,8 @@
 - Place: Singapore
 - Bio: Student, Studying Information systems
 - GitHub: [Li Jin](https://github.com/sljtheultima)
+
+#### Name: [Subramanyam Dantu](https://github.com/subkrish)
+- Place: New Delhi, Delhi, IN
+- Bio: Student at Indraprastha Institute of Information Technology, Delhi
+- GitHub: [subkrish](https://github.com/subkrish)
