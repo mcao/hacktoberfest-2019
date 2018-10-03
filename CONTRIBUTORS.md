@@ -1,17 +1,14 @@
 #### Name: [Michael Cao](https://github.com/mcao)
-
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
 - GitHub: [Michael Cao](https://github.com/mcao)
 
 #### Name: [Dylan Sprague](https://github.com/Pavillin)
-
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
 - GitHub: [Dylan Sprague](https://github.com/Pavillin)
 
 #### Name: [Caleb X Berger](https://github.com/c-x-berger)
-
 - Place: Indiana, USA
 - Bio: Hamster 
 - GitHub: [Caleb X Berger](https://github.com/c-x-berger)
@@ -32,13 +29,11 @@
 - GitHub: [Joseph Reed](https://github.com/josephreed2600)
 
 #### Name: [Emily Colón](https://github.com/emilycolon)
-
 - Place: Connecticut, USA
 - Bio: A mom and a coder
 - GitHub: [Emily Colón](https://github.com/emilycolon)
 
 #### Name: [Ben Ryan](https://github.com/redraskal)
-
 - Place: St. Louis, MO
 - Bio: Random person that codes & plays Overwatch
 - Github: [redraskal](https://github.com/redraskal)
@@ -87,3 +82,39 @@
 - Place: Gurgaon, Haryana, India
 - Bio: Computer Science student at BML Munjal University
 - GitHub: [Nirmal Dalmia](https://github.com/nirmaldalmia)
+
+#### Name: [Jeremy CL](https://github.com/jeremycl)
+- Place: Montreal, QC, Canada
+- Bio: Computer Engineer, Software Dev
+- GitHub: [Jeremy CL](https://github.com/jeremycl)
+
+#### Name: [Vinayak](https://github.com/vinayak42)
+- Place: New Delhi, Delhi, India
+- Bio: Computer Science Undergraduate at IIIT-Delhi
+- GitHub: [vinayak42](https://github.com/vinayak42)
+
+#### Name: [Moh. Wahyu S. Putra](https://github.com/waysp)
+- Place: Jakarta, South Jakarta, DKI Jakarta
+- Bio: Software Engineer
+- GitHub: [Mohammad Wahyu Sanusi Putra](https://github.com/waysp)
+
+#### Name: [Bharat Raghunathan](https://github.com/Bharat123Rox)
+- Place: Hyderabad, India
+- Bio: Student at BITS Pilani, Hyderabad Campus
+- GitHub: [Bharat123Rox](https://github.com/Bharat123Rox)
+
+#### Name: [Eby Sofyan](https://github.com/ebysofyan)
+- Place: Mataram, NTB
+- Bio: Student at STMIK Bumigora Mataram
+- GitHub: [Eby Sofyan](https://github.com/ebysofyan)
+
+### Name: [Li Jin](https://github.com/sljtheultima)
+- Place: Singapore
+- Bio: Student, Studying Information systems
+- GitHub: [Li Jin](https://github.com/sljtheultima)
+
+#### Name: [Subramanyam Dantu](https://github.com/subkrish)
+- Place: New Delhi, Delhi, IN
+- Bio: Student at Indraprastha Institute of Information Technology, Delhi
+- GitHub: [subkrish](https://github.com/subkrish)
+
