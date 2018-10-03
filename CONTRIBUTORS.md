@@ -128,3 +128,7 @@
 - Bio: Student at Indraprastha Institute of Information Technology, Delhi
 - GitHub: [subkrish](https://github.com/subkrish)
 
+#### Name: [Ainesh Sootha](https://github.com/AineshSootha)
+- Place: New Delhi, Delhi, IN
+- Bio: Student at high school
+- GitHub: [aineshsootha](https://github.com/AineshSootha)
