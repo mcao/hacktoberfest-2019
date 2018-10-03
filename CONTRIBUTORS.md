@@ -132,3 +132,8 @@
 - Place: New Delhi, Delhi, IN
 - Bio: Student at high school
 - GitHub: [aineshsootha](https://github.com/AineshSootha)
+
+#### Name: [Anmol Goel](https://github.com/agoel00)
+- Place: New Delhi, Delhi, IN
+- Bio: Computer Science undergrad at HMRITM
+- GitHub: [agoel00](https://github.com/agoel00)
