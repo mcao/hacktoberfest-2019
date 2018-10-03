@@ -29,7 +29,6 @@
 - GitHub: [Joseph Reed](https://github.com/josephreed2600)
 
 #### Name: [Emily Colón](https://github.com/emilycolon)
-
 - Place: Connecticut, USA
 - Bio: A mom and a coder
 - GitHub: [Emily Colón](https://github.com/emilycolon)
@@ -78,6 +77,11 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Eby Sofyan](https://github.com/ebysofyan)
+- Place: Mataram, NTB
+- Bio: Student at STMIK Bumigora Mataram
+- GitHub: [Eby Sofyan](https://github.com/ebysofyan)
 
 ### Name: [Li Jin](https://github.com/sljtheultima)
 - Place: Singapore
