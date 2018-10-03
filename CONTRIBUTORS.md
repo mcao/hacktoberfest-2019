@@ -3,6 +3,11 @@
 - Bio: Student at Penn State University
 - GitHub: [Michael Cao](https://github.com/mcao)
 
+#### Name: [Alejandro Garcia](https://github.com/OwboxAl3x)
+- Place: Andalucia, ESP
+- Bio: Student at Universidad de Granada
+- GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
 #### Name: [Dylan Sprague](https://github.com/Pavillin)
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
