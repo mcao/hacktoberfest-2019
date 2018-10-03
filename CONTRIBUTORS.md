@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [Subramanyam Dantu](https://github.com/subkrish)
+- Place: New Delhi, Delhi, IN
+- Bio: Student at Indraprastha Institute of Information Technology, Delhi
+- GitHub: [subkrish](https://github.com/subkrish)
