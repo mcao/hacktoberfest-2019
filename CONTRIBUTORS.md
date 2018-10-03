@@ -78,6 +78,11 @@
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
 
+#### Name: [Vinayak](https://github.com/vinayak42)
+- Place: New Delhi, Delhi, India
+- Bio: Computer Science Undergraduate at IIIT-Delhi
+- GitHub: [vinayak42](https://github.com/vinayak42)
+
 #### Name: [Moh. Wahyu S. Putra](https://github.com/waysp)
 - Place: Jakarta, South Jakarta, DKI Jakarta
 - Bio: Software Engineer
@@ -102,3 +107,4 @@
 - Place: New Delhi, Delhi, IN
 - Bio: Student at Indraprastha Institute of Information Technology, Delhi
 - GitHub: [subkrish](https://github.com/subkrish)
+
