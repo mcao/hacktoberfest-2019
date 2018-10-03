@@ -137,3 +137,9 @@
 - Place: New Delhi, Delhi, IN
 - Bio: Student at high school
 - GitHub: [aineshsootha](https://github.com/AineshSootha)
+
+
+#### Name: [Matthew Deloughry](https://github.com/trickierstinky)
+- Place: Sheffield, UK
+- Bio: Ruby Developer
+- GitHub: [trickierstinky](https://github.com/trickierstinky)
