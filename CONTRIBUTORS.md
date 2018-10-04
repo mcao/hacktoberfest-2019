@@ -157,3 +157,8 @@
 - Place: Washington DC, USA
 - Bio: Student at George Mason University
 - GitHub: [Gordon Ngo](https://github.com/gcwngo)
+
+#### Name: [Titi Arimba](https://github.com/titiarimba)
+- Place: Kepulauan Riau, Indonesia
+- Bio: i code like a Girl
+- GitHub: [Titi Arimba](https://github.com/titiarimba)
