@@ -167,3 +167,8 @@
 - Place: Kepulauan Riau, Indonesia
 - Bio: i code like a Girl
 - GitHub: [Titi Arimba](https://github.com/titiarimba)
+
+#### Name: [Scope Wow](https://github.com/scope2018)
+- Place: Washington DC, USA
+- Bio: Engineer
+- GitHub: [Scope Wow](https://github.com/scope2018)
