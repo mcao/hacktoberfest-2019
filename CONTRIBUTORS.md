@@ -167,3 +167,8 @@
 - Place: Kepulauan Riau, Indonesia
 - Bio: i code like a Girl
 - GitHub: [Titi Arimba](https://github.com/titiarimba)
+
+#### Name: [Antonio Yee](https://github.com/antonioyee)
+- Place: Sinaloa, México
+- Bio: Software Developer
+- GitHub: [Antonio Yee](https://github.com/antonioyee)
