@@ -152,3 +152,8 @@
 - Place: Sheffield, UK
 - Bio: Ruby Developer
 - GitHub: [trickierstinky](https://github.com/trickierstinky)
+
+#### Name: [Gordon Ngo](https://github.com/gcwngo)
+- Place: Washington DC, USA
+- Bio: Student at George Mason University
+- GitHub: [Gordon Ngo](https://github.com/gcwngo)
