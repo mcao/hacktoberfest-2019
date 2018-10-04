@@ -172,3 +172,9 @@
 - Place: Sinaloa, México
 - Bio: Software Developer
 - GitHub: [Antonio Yee](https://github.com/antonioyee)
+
+#### Name: [Scope Wow](https://github.com/scope2018)
+- Place: Washington DC, USA
+- Bio: Engineer
+- GitHub: [Scope Wow](https://github.com/scope2018)
+
