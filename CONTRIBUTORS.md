@@ -142,3 +142,8 @@
 - Place: Copenhagen, Denmark
 - Bio: Software Developer
 - GitHub: [Cronick](ttps://github.com/Cronick)
+
+#### Name: [Matthew Deloughry](https://github.com/trickierstinky)
+- Place: Sheffield, UK
+- Bio: Ruby Developer
+- GitHub: [trickierstinky](https://github.com/trickierstinky)
