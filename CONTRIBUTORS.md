@@ -3,6 +3,11 @@
 - Bio: Student at Penn State University
 - GitHub: [Michael Cao](https://github.com/mcao)
 
+#### Name: [Alejandro Garcia](https://github.com/OwboxAl3x)
+- Place: Andalucia, ESP
+- Bio: Student at Universidad de Granada
+- GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
 #### Name: [Dylan Sprague](https://github.com/Pavillin)
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
@@ -137,3 +142,13 @@
 - Place: New Delhi, Delhi, IN
 - Bio: Computer Science undergrad at HMRITM
 - GitHub: [agoel00](https://github.com/agoel00)
+
+#### Name: [Anders And](https://github.com/Cronick)
+- Place: Copenhagen, Denmark
+- Bio: Software Developer
+- GitHub: [Cronick](ttps://github.com/Cronick)
+
+#### Name: [Matthew Deloughry](https://github.com/trickierstinky)
+- Place: Sheffield, UK
+- Bio: Ruby Developer
+- GitHub: [trickierstinky](https://github.com/trickierstinky)
