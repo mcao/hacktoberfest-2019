@@ -178,3 +178,7 @@
 - Bio: Engineer
 - GitHub: [Scope Wow](https://github.com/scope2018)
 
+#### Name: [Jacob Gunther](https://github.com/PassTheMayo)
+- Place: Springfield MO, USA
+- Bio: High School Sophomore, No Job
+- GitHub: [PassTheMayo](https://github.com/PassTheMayo)
