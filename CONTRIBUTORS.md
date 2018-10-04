@@ -157,3 +157,8 @@
 - Place: Washington DC, USA
 - Bio: Student at George Mason University
 - GitHub: [Gordon Ngo](https://github.com/gcwngo)
+
+#### Name: [Weldon](https://github.com/weldon0405)
+- Place: Arizona, USA
+- Bio: Software Development / Project Management Student
+- GitHub: [weldon0405](https://github.com/weldon0405)
