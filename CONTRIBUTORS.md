@@ -202,3 +202,8 @@
 - Place: Sydney, Austalia
 - Bio: Badass MC / Math Enthusiast
 - GitHub: [Stevo401](https://github.com/stevo401)
+
+#### Name: [Shivani Gupta](https://github.com/develop19)
+- Place: India
+- Bio: Student at MNNIT Allahabad
+- GitHub: [Shivani Gupta](https://github.com/develop19)
