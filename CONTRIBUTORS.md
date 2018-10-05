@@ -203,7 +203,18 @@
 - Bio: Badass MC / Math Enthusiast
 - GitHub: [Stevo401](https://github.com/stevo401)
 
+#### Name: [David Marques](https://github.com/DavidMoura07)
+- Place: Espírito Santo, Brazil
+- Bio: Programmer
+- GitHub: [DavidMoura07](https://github.com/DavidMoura07)
+
+#### Name: [Matheus Barbosa](https://github.com/MatheusRBarbosa)
+- Place: Espírito Santo, Brazil
+- Bio: Programmer, Student at IFES
+- GitHub: [Matheus Barbosa](https://github.com/MatheusRBarbosa)
+
 #### Name: [Shivani Gupta](https://github.com/develop19)
 - Place: India
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
+
