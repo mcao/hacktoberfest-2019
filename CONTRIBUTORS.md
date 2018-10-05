@@ -193,3 +193,12 @@
 - Bio: Philosopher
 - GitHub: [nath1as](https://github.com/nath1as)
 
+#### Name: [Saurabh Singh](https://github.com/AbsolutelySaurabh)
+- Place: New Delhi, India
+- Bio: tech-athletic guy, who can code/play till sunrise
+- GitHub: [AbsolutelySaurabh](https://github.com/AbsolutelySaurabh)
+
+#### Name: [Steve Mitchell](https://github.com/stevo401)
+- Place: Sydney, Austalia
+- Bio: Badass MC / Math Enthusiast
+- GitHub: [Stevo401](https://github.com/stevo401)
