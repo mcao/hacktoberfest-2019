@@ -187,3 +187,9 @@
 - Place: Recife ,PE,Brasil
 - Bio: Programmer
 - GitHub: [CaioCordeiro](https://github.com/CaioCordeiro)
+
+#### Name: [Nathias](https://github.com/nath1as)
+- Place: Bled, Slovenia
+- Bio: Philosopher
+- GitHub: [nath1as](https://github.com/nath1as)
+
