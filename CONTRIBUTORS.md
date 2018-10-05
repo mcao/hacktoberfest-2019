@@ -202,3 +202,8 @@
 - Place: Sydney, Austalia
 - Bio: Badass MC / Math Enthusiast
 - GitHub: [Stevo401](https://github.com/stevo401)
+
+#### Name: [David Marques](https://github.com/DavidMoura07)
+- Place: Espírito Santo, Brazil
+- Bio: Programmer
+- GitHub: [DavidMoura07](https://github.com/DavidMoura07)
