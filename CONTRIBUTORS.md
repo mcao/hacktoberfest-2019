@@ -187,3 +187,8 @@
 - Place: Recife ,PE,Brasil
 - Bio: Programmer
 - GitHub: [CaioCordeiro](https://github.com/CaioCordeiro)
+
+#### Name: [Steve Mitchell](https://github.com/stevo401)
+- Place: Sydney, Austalia
+- Bio: Badass MC / Math Enthusiast
+- GitHub: [Stevo401](https://github.com/stevo401)
