@@ -1,4 +1,4 @@
-#### Name: [Michael Cao](https://github.com/mcao)
+﻿#### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
 - GitHub: [Michael Cao](https://github.com/mcao)
@@ -218,3 +218,7 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Aris Kurniawan](https://github.com/arisdolanan)
+- Place: Indoneisa
+- Bio: Student at Universitas Maritim Raja Ali Haji
+- GitHub: [Aris Kurniawan](https://github.com/arisdolanan)
