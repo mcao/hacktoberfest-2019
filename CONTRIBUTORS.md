@@ -218,3 +218,7 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Wisnu Febriadi](https://github.com/wfebriadi)
+- Place: Kepulauan Riau, Indonesia
+- Bio: Student at Universitas Maritim Raja Ali Haji
+- GitHub: [Wisnu Febriadi](https://github.com/wfebriadi)
