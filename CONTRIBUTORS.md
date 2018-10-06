@@ -218,3 +218,8 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Rafal Kruk](https://github.com/rkruk)
+- Place: Yorkshire, UK
+- Bio: Web Developer
+- GitHub: [Rafal Kruk](https://github.com/rkruk)
+
