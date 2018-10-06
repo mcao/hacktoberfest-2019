@@ -218,3 +218,7 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Nitish Jadia](https://github.com/w4rb0y)
+- Place: Hyderabad, India
+- Bio: Postgrad, University of Hyderabad
+- GitHub: [Nitish Jadia](https://github.com/w4rb0y)
