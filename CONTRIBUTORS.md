@@ -218,6 +218,11 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Jonathan, Azali]  (https://github.com/jonazali)
+- Place: Los Angeles, California, United States
+- Bio: Graduate Student
+- GitHub: [Jonathan, Azali]  (https://github.com/jonazali)
+
 #### Name: [Nitish Jadia](https://github.com/w4rb0y)
 - Place: Hyderabad, India
 - Bio: Postgrad, University of Hyderabad
