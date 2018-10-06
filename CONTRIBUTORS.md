@@ -218,3 +218,8 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Jonathan, Azali]  (https://github.com/jonazali)
+- Place: Los Angeles, California, United States
+- Bio: Graduate Student
+- GitHub: [Jonathan, Azali]  (https://github.com/jonazali)
+
