@@ -222,3 +222,18 @@
 - Place: Bhubaneswar Odisha, Indai
 - Bio: tech-geek, who can code from dusk to dawn
 - GitHub: [Siwani Agrawal](https://github.com/siwaniagrawal)
+
+#### Name: [Jonathan, Azali]  (https://github.com/jonazali)
+- Place: Los Angeles, California, United States
+- Bio: Graduate Student
+- GitHub: [Jonathan, Azali]  (https://github.com/jonazali)
+
+#### Name: [Nitish Jadia](https://github.com/w4rb0y)
+- Place: Hyderabad, India
+- Bio: Postgrad, University of Hyderabad
+- GitHub: [Nitish Jadia](https://github.com/w4rb0y)
+
+#### Name: [Cooper](https://github.com/sudomoose)
+- Place: San Francisco, California, United States
+- Bio: Student, NodeJS developer
+- Github: [sudomoose](https://github.com/sudomoose)
