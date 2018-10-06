@@ -218,6 +218,11 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Aris Kurniawan](https://github.com/arisdolanan)
+- Place: Indonesia
+- Bio: Student at Universitas Maritim Raja Ali Haji
+- GitHub: [Aris Kurniawan](https://github.com/arisdolanan)
+
 #### Name: [Wisnu Febriadi](https://github.com/wfebriadi)
 - Place: Kepulauan Riau, Indonesia
 - Bio: Student at Universitas Maritim Raja Ali Haji
