@@ -218,6 +218,11 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Rafal Kruk](https://github.com/rkruk)
+- Place: Yorkshire, UK
+- Bio: Web Developer
+- GitHub: [Rafal Kruk](https://github.com/rkruk)
+
 #### Name: [Aris Kurniawan](https://github.com/arisdolanan)
 - Place: Indonesia
 - Bio: Student at Universitas Maritim Raja Ali Haji
@@ -252,4 +257,3 @@
 - Place: San Francisco, California, United States
 - Bio: Student, NodeJS developer
 - Github: [sudomoose](https://github.com/sudomoose)
-
