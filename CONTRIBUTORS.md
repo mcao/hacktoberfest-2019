@@ -218,3 +218,7 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Cooper](https://github.com/sudomoose)
+- Place: San Francisco, California, United States
+- Bio: Student, NodeJS developer
+- Github: [sudomoose](https://github.com/sudomoose)
