@@ -218,6 +218,11 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Mukul Kumar](https://github.com/mukulkumar22)
+- Place: India
+- Bio: Student at IIIT Delhi
+- GitHub: [Mukul Kumar](https://github.com/mukulkumar22)
+
 #### Name: [Siwani Agrawal](https://github.com/siwaniagrawal)
 - Place: Bhubaneswar Odisha, Indai
 - Bio: tech-geek, who can code from dusk to dawn
@@ -237,3 +242,4 @@
 - Place: San Francisco, California, United States
 - Bio: Student, NodeJS developer
 - Github: [sudomoose](https://github.com/sudomoose)
+
