@@ -218,3 +218,7 @@
 - Bio: Student at MNNIT Allahabad
 - GitHub: [Shivani Gupta](https://github.com/develop19)
 
+#### Name: [Mukul Kumar](https://github.com/mukulkumar22)
+- Place: India
+- Bio: Student at IIIT Delhi
+- GitHub: [Mukul Kumar](https://github.com/mukulkumar22)
