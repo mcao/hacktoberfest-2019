@@ -223,3 +223,37 @@
 - Bio: Web Developer
 - GitHub: [Rafal Kruk](https://github.com/rkruk)
 
+#### Name: [Aris Kurniawan](https://github.com/arisdolanan)
+- Place: Indonesia
+- Bio: Student at Universitas Maritim Raja Ali Haji
+- GitHub: [Aris Kurniawan](https://github.com/arisdolanan)
+
+#### Name: [Wisnu Febriadi](https://github.com/wfebriadi)
+- Place: Kepulauan Riau, Indonesia
+- Bio: Student at Universitas Maritim Raja Ali Haji
+- GitHub: [Wisnu Febriadi](https://github.com/wfebriadi)
+
+#### Name: [Mukul Kumar](https://github.com/mukulkumar22)
+- Place: India
+- Bio: Student at IIIT Delhi
+- GitHub: [Mukul Kumar](https://github.com/mukulkumar22)
+
+#### Name: [Siwani Agrawal](https://github.com/siwaniagrawal)
+- Place: Bhubaneswar Odisha, Indai
+- Bio: tech-geek, who can code from dusk to dawn
+- GitHub: [Siwani Agrawal](https://github.com/siwaniagrawal)
+
+#### Name: [Jonathan, Azali]  (https://github.com/jonazali)
+- Place: Los Angeles, California, United States
+- Bio: Graduate Student
+- GitHub: [Jonathan, Azali]  (https://github.com/jonazali)
+
+#### Name: [Nitish Jadia](https://github.com/w4rb0y)
+- Place: Hyderabad, India
+- Bio: Postgrad, University of Hyderabad
+- GitHub: [Nitish Jadia](https://github.com/w4rb0y)
+
+#### Name: [Cooper](https://github.com/sudomoose)
+- Place: San Francisco, California, United States
+- Bio: Student, NodeJS developer
+- Github: [sudomoose](https://github.com/sudomoose)
