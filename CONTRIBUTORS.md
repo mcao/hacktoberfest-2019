@@ -267,3 +267,7 @@
 - Place: Indonesia
 - Bio: Student at Universitas Maritim Raja Ali Haji
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
+### Name: [Thomas Orth](https://github.com/TomOrth)
+- Place: New Jersey, USA
+- Bio: Student at TCNJ
+- Github: [Thomas Orth](https://github.com/TomOrth)
