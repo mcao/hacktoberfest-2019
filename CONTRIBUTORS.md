@@ -262,3 +262,8 @@
 - Place: San Francisco, California, United States
 - Bio: Student, NodeJS developer
 - Github: [sudomoose](https://github.com/sudomoose)
+
+#### Name: [Aris Kurniawan](https://github.com/Arisdolanan)
+- Place: Indonesia
+- Bio: Student at Universitas Maritim Raja Ali Haji
+- GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
