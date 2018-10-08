@@ -272,3 +272,13 @@
 - Place: Tirana,Albania
 - Bio: Android Developer
 - GitHub: [Aldo Cano](https://github.com/aldocano)
+
+#### Name: [Sittichoke Krongboon](https://github.com/sittichoke)
+- Place: Thailand
+- Bio: Programmer PHP, Angular, nodejs
+- GitHub: [Sittichoke Krongboon](https://github.com/sittichoke)
+
+### Name: [Thomas Orth](https://github.com/TomOrth)
+- Place: New Jersey, USA
+- Bio: Student at TCNJ
+- Github: [Thomas Orth](https://github.com/TomOrth)
