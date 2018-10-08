@@ -268,6 +268,11 @@
 - Bio: Student at Universitas Maritim Raja Ali Haji
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
 
+#### Name: [Lucas Duarte](https://github.com/lucasduarte)
+- Place: Timóteo, MG, Brazil
+- Bio: .Net Developer
+- GitHub: [lucasduarte](https://github.com/lucasduarte)
+
 #### Name: [Piyawat Sawong](https://github.com/DarkForest13)
 - Place: Thailand
 - Bio: Student at King Mongkut's Institute of Technology Ladkrabang
