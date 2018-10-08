@@ -267,3 +267,8 @@
 - Place: Indonesia
 - Bio: Student at Universitas Maritim Raja Ali Haji
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
+
+#### Name: [Aldo Cano](https://github.com/aldocano)
+- Place: Tirana,Albania
+- Bio: Android Developer
+- GitHub: [Aldo Cano](https://github.com/aldocano)
