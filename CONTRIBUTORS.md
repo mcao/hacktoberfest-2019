@@ -298,3 +298,9 @@
 - Place: Vitória, Brazil
 - Bio: Student at IFES
 - Github: [Icaro Duarte](https://github.com/iarodgl)
+
+
+#### Name: [Pritam Piyush](https://github.com/pritampiyush5)
+- Place:Patiala,Punjab, India
+- Bio: A student at thapar university patiala.
+- GitHub: [pritampiyush5](https://github.com/pritampiyush5)
