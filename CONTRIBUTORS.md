@@ -1,3 +1,8 @@
+#### Name: [James Anderson](https://github.com/moodiest)
+- Place: Huddersfield, Yorkshire, United Kingdom
+- Bio: Cryptocurrency Enthusiast.
+- GitHub: [moodiest](https://github.com/moodiest)
+
 #### Name: [Ana Carolina Ferreira](https://github.com/anacdf)
 - Place: Rio Grande do Sul, Brasil
 - Bio: Student at PUCRS University
