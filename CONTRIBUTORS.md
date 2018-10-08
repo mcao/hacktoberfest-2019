@@ -268,6 +268,11 @@
 - Bio: Student at Universitas Maritim Raja Ali Haji
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
 
+#### Name: [Aldo Cano](https://github.com/aldocano)
+- Place: Tirana,Albania
+- Bio: Android Developer
+- GitHub: [Aldo Cano](https://github.com/aldocano)
+
 #### Name: [Sittichoke Krongboon](https://github.com/sittichoke)
 - Place: Thailand
 - Bio: Programmer PHP, Angular, nodejs
