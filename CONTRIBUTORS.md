@@ -312,3 +312,8 @@
 - Place: Hawaii
 - Bio: Currently a university student
 - GitHub: [SnowyMan](https://github.com/SnowyMan)
+
+#### Name: [Pablo Vivera](https://github.com/pvivera)
+- Place: Tampa, FL, USA
+- Bio: .Net Senior Developer
+- GitHub: [Pvivera](https://github.com/pvivera)
