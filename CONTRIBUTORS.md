@@ -292,3 +292,9 @@
 - Place: New Jersey, USA
 - Bio: Student at TCNJ
 - Github: [Thomas Orth](https://github.com/TomOrth)
+
+
+### Name: [Icaro Duarte](https://github.com/iarodgl)
+- Place: Vitória, Brazil
+- Bio: Student at IFES
+- Github: [Icaro Duarte](https://github.com/iarodgl)
