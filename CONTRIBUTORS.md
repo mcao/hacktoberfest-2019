@@ -307,3 +307,8 @@
 - Place: Patiala, Punjab, India
 - Bio: A student at thapar university patiala.
 - GitHub: [pritampiyush5](https://github.com/pritampiyush5)
+
+#### Name: [Dustin](https://github.com/pritampiyush5)
+- Place: Hawaii
+- Bio: Currently a university student
+- GitHub: [SnowyMan](https://github.com/SnowyMan)
