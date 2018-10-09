@@ -323,7 +323,6 @@
 - Bio: .Net Senior Developer
 - GitHub: [Pvivera](https://github.com/pvivera)
 
-
 #### Name: [Alexandre Santos](https://github.com/alexendrios)
 - Place: Brasilia, Brasil
 - Bio: Developer and QA
@@ -334,3 +333,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Eric Seidler](https://github.com/etseidler)
+- Place: St. Louis, MO, USA
+- Bio: Software Developer
+- GitHub: [ET Seidler](https://github.com/etseidler)
