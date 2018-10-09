@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dreiecke {
+public class java_dreiecke_cyclist8 {
 
     public static void main(String[] args) {
 
