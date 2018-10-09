@@ -18,6 +18,11 @@
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
 
+#### Name: [Kyaa Kats](https://github.com/KyaaKats)
+- Place: Hawaii
+- Bio: Student at University of Hawaii
+- GitHub: [Kyaa Kats](https://github.com/KyaaKats)
+
 #### Name: [Dylan Sprague](https://github.com/Pavillin)
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
@@ -318,7 +323,14 @@
 - Bio: .Net Senior Developer
 - GitHub: [Pvivera](https://github.com/pvivera)
 
+
 #### Name: [Alexandre Santos](https://github.com/alexendrios)
 - Place: Brasilia, Brasil
 - Bio: Developer and QA
 - GitHub: [alexendrios](https://github.com/alexendrios)
+
+#### Name: [Andreas](https://github.com/andreas-ra)
+- Place: Hamburg, Germany
+- Bio: Scienctist, developer
+- GitHub: [andreas-ra](https://github.com/andreas-ra)
+
