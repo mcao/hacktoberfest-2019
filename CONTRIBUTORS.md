@@ -317,3 +317,8 @@
 - Place: Tampa, FL, USA
 - Bio: .Net Senior Developer
 - GitHub: [Pvivera](https://github.com/pvivera)
+
+#### Name: [Alexandre Santos](https://github.com/alexendrios)
+- Place: Brasilia, Brasil
+- Bio: Developer and QA
+- GitHub: [alexendrios](https://github.com/alexendrios)
