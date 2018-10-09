@@ -18,6 +18,11 @@
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
 
+#### Name: [Kyaa Kats](https://github.com/KyaaKats)
+- Place: Hawaii
+- Bio: Student at University of Hawaii
+- GitHub: [Kyaa Kats](https://github.com/KyaaKats)
+
 #### Name: [Dylan Sprague](https://github.com/Pavillin)
 - Place: Toronto, Canada
 - Bio: Student at Georgian College
