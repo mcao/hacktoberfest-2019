@@ -348,6 +348,11 @@
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
 
+#### Name: [Ally](https://github.com/Lyxnx)
+- Place: Portsmouth, Hampshire, UK
+- Bio: Student
+- GitHub: [jeroberts](https://github.com/Lyxnx)
+
 #### Name: [Nayalash](https://github.com/Nayalash)
 - Place: Milton, ON, Canada
 - Bio: Developer
