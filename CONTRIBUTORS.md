@@ -279,7 +279,7 @@
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
 
 #### Name: [Lucas Duarte](https://github.com/lucasduarte)
-- Place: Timóteo, MG, Brazil
+- Place: Timóteo, MG,Brazil
 - Bio: .Net Developer
 - GitHub: [lucasduarte](https://github.com/lucasduarte)
 
