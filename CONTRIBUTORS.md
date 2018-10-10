@@ -279,7 +279,7 @@
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
 
 #### Name: [Lucas Duarte](https://github.com/lucasduarte)
-- Place: Timóteo, MG, Brazil
+- Place: Timóteo, MG,Brazil
 - Bio: .Net Developer
 - GitHub: [lucasduarte](https://github.com/lucasduarte)
 
@@ -347,3 +347,8 @@
 - Place: Ipatinga, Brazil
 - Bio: Front-end and Mobile developer
 - GitHub: [vitorOta](https://github.com/vitorOta)
+
+#### Name: [A. Rguez](https://github.com/airamrguez)
+- Place: Valencia, Spain
+- Bio: Software Developer
+- GitHub: [airamrguez](https://github.com/airamrguez)
