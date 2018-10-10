@@ -337,3 +337,8 @@
 - Place: St. Louis, MO, USA
 - Bio: Software Developer
 - GitHub: [ET Seidler](https://github.com/etseidler)
+
+#### Name: [Jonathan Roberts](https://github.com/jeroberts)
+- Place: St. Louis, Missouri, USA
+- Bio: Software Developer
+- GitHub: [jeroberts](https://github.com/jeroberts)
