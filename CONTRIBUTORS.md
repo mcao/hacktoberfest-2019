@@ -348,6 +348,11 @@
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
 
+#### Name: [Nayalash](https://github.com/Nayalash)
+- Place: Milton, ON, Canada
+- Bio: Developer
+- GitHub: [Nayalash](https://github.com/Nayalash)
+
 #### Name: [Vitor Ota](https://github.com/vitorOta)
 - Place: Ipatinga, Brazil
 - Bio: Front-end and Mobile developer
