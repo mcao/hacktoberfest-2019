@@ -373,6 +373,11 @@
 - Bio: Software Developer
 - GitHub: [airamrguez](https://github.com/airamrguez)
 
+#### Name: [T. Edinger](https://github.com/ArkTrevelyan)
+- Place: West Virginia
+- Bio: Self-teaching.
+- GitHub: [ArkTrevelyan](https://github.com/ArkTrevelyan)
+
 #### Name: [D. Ilic](https://github.com/Morsusy2k)
 - Place: Zrenjanin, Serbia
 - Bio: Software Developer
