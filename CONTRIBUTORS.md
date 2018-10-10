@@ -344,6 +344,6 @@
 - GitHub: [jeroberts](https://github.com/jeroberts)
 
 #### Name: [Vitor Ota](https://github.com/vitorOta)
-- Place: Ipatinga, Brasil
+- Place: Ipatinga, Brazil
 - Bio: Front-end and Mobile developer
 - GitHub: [vitorOta](https://github.com/vitorOta)
