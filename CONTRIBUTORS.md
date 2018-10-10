@@ -342,3 +342,8 @@
 - Place: St. Louis, Missouri, USA
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
+
+#### Name: [A. Rguez](https://github.com/airamrguez)
+- Place: Valencia, Spain
+- Bio: Software Developer
+- GitHub: [airamrguez](https://github.com/airamrguez)
