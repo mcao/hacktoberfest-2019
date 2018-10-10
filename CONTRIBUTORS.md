@@ -372,3 +372,8 @@
 - Place: Valencia, Spain
 - Bio: Software Developer
 - GitHub: [airamrguez](https://github.com/airamrguez)
+
+#### Name: [D. Ilic](https://github.com/Morsusy2k)
+- Place: Zrenjanin, Serbia
+- Bio: Software Developer
+- GitHub: [Morsusy2k](https://github.com/Morsusy2k)
