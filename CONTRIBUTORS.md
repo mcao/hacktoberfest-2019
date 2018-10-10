@@ -343,6 +343,11 @@
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
 
+#### Name: [Vitor Ota](https://github.com/vitorOta)
+- Place: Ipatinga, Brazil
+- Bio: Front-end and Mobile developer
+- GitHub: [vitorOta](https://github.com/vitorOta)
+
 #### Name: [A. Rguez](https://github.com/airamrguez)
 - Place: Valencia, Spain
 - Bio: Software Developer
