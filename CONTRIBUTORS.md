@@ -342,3 +342,7 @@
 - Place: St. Louis, Missouri, USA
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
+#### Name: [Nayalash](https://github.com/Nayalash)
+- Place: Milton, ON, Canada
+- Bio: Developer
+- GitHub: [Nayalash](https://github.com/Nayalash)
