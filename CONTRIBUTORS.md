@@ -352,3 +352,8 @@
 - Place: Valencia, Spain
 - Bio: Software Developer
 - GitHub: [airamrguez](https://github.com/airamrguez)
+
+#### Name: [T. Edinger](https://github.com/ArkTrevelyan)
+- Place: West Virginia
+- Bio: Self-teaching.
+- GitHub: [ArkTrevelyan](https://github.com/ArkTrevelyan)
