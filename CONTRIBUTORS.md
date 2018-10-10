@@ -8,6 +8,11 @@
 - Bio: Student at PUCRS University
 - GitHub: [Ana Carolina](https://github.com/anacdf)
 
+#### Name: [Evgeny Kasian](https://github.com/ievgenk)
+- Place: Vancouver, Canada
+- Bio: Proect manager turned developer
+- GitHub: [Evgeny Kasian](https://github.com/ievgenk)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
@@ -199,7 +204,7 @@
 - GitHub: [PassTheMayo](https://github.com/PassTheMayo)
 
 #### Name: [Caio Cordeiro](https://github.com/CaioCordeiro)
-- Place: Recife ,PE,Brasil
+- Place: Recife, PE,Brasil
 - Bio: Programmer
 - GitHub: [CaioCordeiro](https://github.com/CaioCordeiro)
 
@@ -258,10 +263,10 @@
 - Bio: tech-geek, who can code from dusk to dawn
 - GitHub: [Siwani Agrawal](https://github.com/siwaniagrawal)
 
-#### Name: [Jonathan, Azali]  (https://github.com/jonazali)
+#### Name: [Jonathan, Azali](https://github.com/jonazali)
 - Place: Los Angeles, California, United States
 - Bio: Graduate Student
-- GitHub: [Jonathan, Azali]  (https://github.com/jonazali)
+- GitHub: [Jonathan, Azali](https://github.com/jonazali)
 
 #### Name: [Nitish Jadia](https://github.com/w4rb0y)
 - Place: Hyderabad, India
@@ -347,3 +352,18 @@
 - Place: Portsmouth, Hampshire, UK
 - Bio: Student
 - GitHub: [jeroberts](https://github.com/Lyxnx)
+
+#### Name: [Nayalash](https://github.com/Nayalash)
+- Place: Milton, ON, Canada
+- Bio: Developer
+- GitHub: [Nayalash](https://github.com/Nayalash)
+
+#### Name: [Vitor Ota](https://github.com/vitorOta)
+- Place: Ipatinga, Brazil
+- Bio: Front-end and Mobile developer
+- GitHub: [vitorOta](https://github.com/vitorOta)
+
+#### Name: [A. Rguez](https://github.com/airamrguez)
+- Place: Valencia, Spain
+- Bio: Software Developer
+- GitHub: [airamrguez](https://github.com/airamrguez)
