@@ -1,3 +1,8 @@
+#### Name: [Antonio Fiorillo](https://github.com/antoniofiorillo)
+- Place: Termoli (CB), Italy
+- Bio: Web Developer freelance
+- GitHub: [antoniofiorillo](https://github.com/antoniofiorillo)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
