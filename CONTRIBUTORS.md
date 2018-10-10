@@ -342,3 +342,8 @@
 - Place: St. Louis, Missouri, USA
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
+
+#### Name: [Ally](https://github.com/Lyxnx)
+- Place: Portsmouth, Hampshire, UK
+- Bio: Student
+- GitHub: [jeroberts](https://github.com/Lyxnx)
