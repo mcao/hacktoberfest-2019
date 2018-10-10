@@ -342,3 +342,8 @@
 - Place: St. Louis, Missouri, USA
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
+
+#### Name: [Vitor Ota](https://github.com/vitorOta)
+- Place: Ipatinga, Brasil
+- Bio: Front-end and Mobile developer
+- GitHub: [alexendrios](https://github.com/vitorOta)
