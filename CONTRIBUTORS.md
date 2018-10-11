@@ -382,3 +382,8 @@
 - Place: Zrenjanin, Serbia
 - Bio: Software Developer
 - GitHub: [Morsusy2k](https://github.com/Morsusy2k)
+
+#### Name: [William](https://github.com/Unimpressions)
+- Place: Guam, USA
+- Bio: CompSci student trying to get his feet wet with Git!
+- GitHub: [Unimpressions](https://github.com/Unimpressions)
