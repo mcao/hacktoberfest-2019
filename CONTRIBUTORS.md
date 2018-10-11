@@ -392,3 +392,8 @@
 - Place: Virginia
 - Bio: High School Student, tries to compete at programming competitions
 - GitHub: [aayushdhiman](https://github.com/aayushdhiman)
+
+#### Name: [Caleb Conrad](https://github.com/ccconrad)
+- Place: Ohio
+- Bio: Self Teaching
+- GitHub: [ccconrad](https://github.com/ccconrad)
