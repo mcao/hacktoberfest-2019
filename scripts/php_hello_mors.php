@@ -5,7 +5,7 @@
  
    else: ?>
    <form action="" method="post">
-     <p>Name: <input type="text" name="name" /></p>
+     <p>Your name: <input type="text" name="name" /></p>
      <input type="submit" name="submit" value="Submit" />
    </form>
    <?php endif;
