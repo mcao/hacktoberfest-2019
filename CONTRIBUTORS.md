@@ -1,3 +1,8 @@
+#### Name: [Antonio Fiorillo](https://github.com/antoniofiorillo)
+- Place: Termoli (CB), Italy
+- Bio: Web Developer freelance
+- GitHub: [antoniofiorillo](https://github.com/antoniofiorillo)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
@@ -7,6 +12,11 @@
 - Place: Rio Grande do Sul, Brasil
 - Bio: Student at PUCRS University
 - GitHub: [Ana Carolina](https://github.com/anacdf)
+
+#### Name: [Evgeny Kasian](https://github.com/ievgenk)
+- Place: Vancouver, Canada
+- Bio: Proect manager turned developer
+- GitHub: [Evgeny Kasian](https://github.com/ievgenk)
 
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
@@ -199,7 +209,7 @@
 - GitHub: [PassTheMayo](https://github.com/PassTheMayo)
 
 #### Name: [Caio Cordeiro](https://github.com/CaioCordeiro)
-- Place: Recife ,PE,Brasil
+- Place: Recife, PE,Brasil
 - Bio: Programmer
 - GitHub: [CaioCordeiro](https://github.com/CaioCordeiro)
 
@@ -258,10 +268,10 @@
 - Bio: tech-geek, who can code from dusk to dawn
 - GitHub: [Siwani Agrawal](https://github.com/siwaniagrawal)
 
-#### Name: [Jonathan, Azali]  (https://github.com/jonazali)
+#### Name: [Jonathan, Azali](https://github.com/jonazali)
 - Place: Los Angeles, California, United States
 - Bio: Graduate Student
-- GitHub: [Jonathan, Azali]  (https://github.com/jonazali)
+- GitHub: [Jonathan, Azali](https://github.com/jonazali)
 
 #### Name: [Nitish Jadia](https://github.com/w4rb0y)
 - Place: Hyderabad, India
@@ -279,7 +289,7 @@
 - GitHub: [Aris Kurniawan](https://github.com/Arisdolanan)
 
 #### Name: [Lucas Duarte](https://github.com/lucasduarte)
-- Place: Timóteo, MG,Brazil
+- Place: Timóteo, MG, Brazil
 - Bio: .Net Developer
 - GitHub: [lucasduarte](https://github.com/lucasduarte)
 
@@ -343,6 +353,16 @@
 - Bio: Software Developer
 - GitHub: [jeroberts](https://github.com/jeroberts)
 
+#### Name: [Ally](https://github.com/Lyxnx)
+- Place: Portsmouth, Hampshire, UK
+- Bio: Student
+- GitHub: [jeroberts](https://github.com/Lyxnx)
+
+#### Name: [Nayalash](https://github.com/Nayalash)
+- Place: Milton, ON, Canada
+- Bio: Developer
+- GitHub: [Nayalash](https://github.com/Nayalash)
+
 #### Name: [Vitor Ota](https://github.com/vitorOta)
 - Place: Ipatinga, Brazil
 - Bio: Front-end and Mobile developer
@@ -353,7 +373,27 @@
 - Bio: Software Developer
 - GitHub: [airamrguez](https://github.com/airamrguez)
 
-#### Name: [D. Ilić](https://github.com/Morsusy2k)
+#### Name: [T. Edinger](https://github.com/ArkTrevelyan)
+- Place: West Virginia
+- Bio: Self-teaching.
+- GitHub: [ArkTrevelyan](https://github.com/ArkTrevelyan)
+
+#### Name: [D. Ilic](https://github.com/Morsusy2k)
 - Place: Zrenjanin, Serbia
 - Bio: Software Developer
 - GitHub: [Morsusy2k](https://github.com/Morsusy2k)
+
+#### Name: [William](https://github.com/Unimpressions)
+- Place: Guam, USA
+- Bio: CompSci student trying to get his feet wet with Git!
+- GitHub: [Unimpressions](https://github.com/Unimpressions)
+
+#### Name: [Aayush Dhiman](https://github.com/aayushdhiman)
+- Place: Virginia
+- Bio: High School Student, tries to compete at programming competitions
+- GitHub: [aayushdhiman](https://github.com/aayushdhiman)
+
+#### Name: [Caleb Conrad](https://github.com/ccconrad)
+- Place: Ohio
+- Bio: Self Teaching
+- GitHub: [ccconrad](https://github.com/ccconrad)
