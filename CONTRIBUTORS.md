@@ -382,3 +382,8 @@
 - Place: Zrenjanin, Serbia
 - Bio: Software Developer
 - GitHub: [Morsusy2k](https://github.com/Morsusy2k)
+
+#### Name: [Aayush Dhiman](https://github.com/aayushdhiman)
+- Place: Virginia
+- Bio: High School Student, tries to compete at programming competitions
+- GitHub: [aayushdhiman](https://github.com/aayushdhiman)
