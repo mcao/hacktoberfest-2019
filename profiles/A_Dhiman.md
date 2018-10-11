@@ -1,5 +1,4 @@
-# Your Name
-Aayush Dhiman
+# Aayush Dhiman
 ### Location
 
 Virginia, United States
