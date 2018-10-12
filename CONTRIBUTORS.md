@@ -218,6 +218,11 @@
 - Bio: Philosopher
 - GitHub: [nath1as](https://github.com/nath1as)
 
+#### Name: [David Quan](https://github.com/David-Quan00)
+- Place: Toronto, Canada 
+- Bio: Programmer
+- GitHub: [David-Quan00](https://github.com/David-Quan00)
+
 #### Name: [Saurabh Singh](https://github.com/AbsolutelySaurabh)
 - Place: New Delhi, India
 - Bio: tech-athletic guy, who can code/play till sunrise
