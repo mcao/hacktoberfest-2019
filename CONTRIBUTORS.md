@@ -418,3 +418,7 @@
 - Bio: IT Professional
 - GitHub: [thomaseitler](https://github.com/thomaseitler)
 
+#### Name: [William Zhou](https://github.com/wzhouwzhou)
+- Place: White Plains, New York, USA
+- Bio: Business Administration and Management-Finance Major in the Questrom School of Business at Boston University
+- Github: [wzhouwzhou](https://github.com/wzhouwzhou)
