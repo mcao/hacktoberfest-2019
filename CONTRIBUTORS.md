@@ -273,6 +273,11 @@
 - Bio: tech-geek, who can code from dusk to dawn
 - GitHub: [Siwani Agrawal](https://github.com/siwaniagrawal)
 
+#### Name: [Jamie Townsend](https://github.com/diginari)
+- Place: Cheltenham, UK
+- Bio: Software Developer
+- GitHub: [Jamie Townsend](https://github.com/diginari)
+
 #### Name: [Jonathan, Azali](https://github.com/jonazali)
 - Place: Los Angeles, California, United States
 - Bio: Graduate Student
