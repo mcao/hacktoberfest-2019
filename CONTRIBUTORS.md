@@ -418,3 +418,10 @@
 - Bio: IT Professional
 - GitHub: [thomaseitler](https://github.com/thomaseitler)
 
+#### Name: [Faisal Hassan](https://github.com/faisalhassanx)
+- Place: Virginia, USA
+- Bio: Software Engineer
+- GitHub: [faisalhassanx](https://github.com/faisalhassanx)
+
+
+
