@@ -1,7 +1,7 @@
 /**
  * Hello World Program
  */
-public class HelloWorld_Domenick {
+public class Java_HelloWorld_Domenick {
 
     /*
      * Main method responsible for printing "Hello World!"
