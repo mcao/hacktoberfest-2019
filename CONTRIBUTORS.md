@@ -418,6 +418,11 @@
 - Bio: IT Professional
 - GitHub: [thomaseitler](https://github.com/thomaseitler)
 
+#### Name: [Felipe Megale](https://github.com/felipemegale)
+- Place: Belo Horizonte, Brazil
+- Bio: Computer Science student
+- [felipemegale](https://github.com/felipemegale)
+
 #### Name: [Faisal Hassan](https://github.com/faisalhassanx)
 - Place: Virginia, USA
 - Bio: Software Engineer
