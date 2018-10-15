@@ -418,6 +418,11 @@
 - Bio: IT Professional
 - GitHub: [thomaseitler](https://github.com/thomaseitler)
 
+#### Name: [Faisal Hassan](https://github.com/faisalhassanx)
+- Place: Virginia, USA
+- Bio: Software Engineer
+- GitHub: [faisalhassanx](https://github.com/faisalhassanx)
+
 #### Name: [William Zhou](https://github.com/wzhouwzhou)
 - Place: White Plains, New York, USA
 - Bio: Business Administration and Management-Finance Major in the Questrom School of Business at Boston University
