@@ -432,3 +432,8 @@
 - Place: White Plains, New York, USA
 - Bio: Business Administration and Management-Finance Major in the Questrom School of Business at Boston University
 - Github: [wzhouwzhou](https://github.com/wzhouwzhou)
+
+#### Name: [Domenick DiBiase](https://github.com/Domenick97)
+- Place: North Carolina, USA
+- Bio: Computer Science Undergraduate 
+- Github: [Domenick97](https://github.com/Domenick97)
