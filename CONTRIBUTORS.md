@@ -437,3 +437,8 @@
 - Place: North Carolina, USA
 - Bio: Computer Science Undergraduate 
 - Github: [Domenick97](https://github.com/Domenick97)
+
+#### Name: [Michal Cerman](https://github.com/micer)
+- Place: Prague, Czech Republic
+- Bio: Android Developer
+- Github: [micer](https://github.com/micer)
