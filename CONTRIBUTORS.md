@@ -437,3 +437,8 @@
 - Place: North Carolina, USA
 - Bio: Computer Science Undergraduate 
 - Github: [Domenick97](https://github.com/Domenick97)
+
+#### Name: [Helen França Medeiros](https://github.com/helenfranca)
+ - Place: Serra, Espírito Santo, Brazil
+ - Bio: Bachelor's student in information systems, love to travel and listen to music. I programm in Python, Java, C, Html and CSS.
+ - GitHub: [helenfranca](https://github.com/helenfranca)
