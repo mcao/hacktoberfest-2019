@@ -3,6 +3,11 @@
 - Bio: Web Developer freelance
 - GitHub: [antoniofiorillo](https://github.com/antoniofiorillo)
 
+#### Name: [Lukas Scholz](https://github.com/therealgherkhin)
+- Place: Halle, Germany
+- Bio: Student
+- GitHub: [Lukas Scholz](https://github.com/therealgherkhin)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
