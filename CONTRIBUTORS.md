@@ -442,3 +442,8 @@
 - Place: Hamburg, Germany
 - Bio: Software Engineer
 - GitHub: [dhinske](https://github.com/dhinske)
+
+#### Name: [Michal Cerman](https://github.com/micer)
+- Place: Prague, Czech Republic
+- Bio: Android Developer
+- Github: [micer](https://github.com/micer)
