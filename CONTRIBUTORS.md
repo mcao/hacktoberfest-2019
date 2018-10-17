@@ -437,3 +437,7 @@
 - Place: North Carolina, USA
 - Bio: Computer Science Undergraduate 
 - Github: [Domenick97](https://github.com/Domenick97)
+#### Name: Wanjiru Catherine
+- Bio: Computer Science Student | Android developer| AI enthusiast
+- Github: [kateshiru](github.com/kateshiru)
+- Twitter: [shiru_munene](https://twitter.com/shiru_munene)
