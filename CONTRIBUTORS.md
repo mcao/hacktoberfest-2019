@@ -438,6 +438,11 @@
 - Bio: Computer Science Undergraduate
 - Github: [Domenick97](https://github.com/Domenick97)
 
+#### Name: Wanjiru Catherine
+- Bio: Computer Science Student | Android developer| AI enthusiast
+- Github: [kateshiru](github.com/kateshiru)
+- Twitter: [shiru_munene](https://twitter.com/shiru_munene)
+
 #### Name: [Helen França Medeiros](https://github.com/helenfranca)
  - Place: Serra, Espírito Santo, Brazil
  - Bio: Bachelor's student in information systems, love to travel and listen to music. I programm in Python, Java, C, Html and CSS.
