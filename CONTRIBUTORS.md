@@ -219,7 +219,7 @@
 - GitHub: [nath1as](https://github.com/nath1as)
 
 #### Name: [David Quan](https://github.com/David-Quan00)
-- Place: Toronto, Canada 
+- Place: Toronto, Canada
 - Bio: Programmer
 - GitHub: [David-Quan00](https://github.com/David-Quan00)
 
@@ -435,10 +435,20 @@
 
 #### Name: [Domenick DiBiase](https://github.com/Domenick97)
 - Place: North Carolina, USA
-- Bio: Computer Science Undergraduate 
+- Bio: Computer Science Undergraduate
 - Github: [Domenick97](https://github.com/Domenick97)
 
 #### Name: [Helen França Medeiros](https://github.com/helenfranca)
  - Place: Serra, Espírito Santo, Brazil
  - Bio: Bachelor's student in information systems, love to travel and listen to music. I programm in Python, Java, C, Html and CSS.
  - GitHub: [helenfranca](https://github.com/helenfranca)
+
+#### Name: [David Krischke](https://github.com/dhinske)
+- Place: Hamburg, Germany
+- Bio: Software Engineer
+- GitHub: [dhinske](https://github.com/dhinske)
+
+#### Name: [Michal Cerman](https://github.com/micer)
+- Place: Prague, Czech Republic
+- Bio: Android Developer
+- Github: [micer](https://github.com/micer)
