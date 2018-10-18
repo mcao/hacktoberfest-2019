@@ -462,3 +462,9 @@
 - Place: Prague, Czech Republic
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
+
+#### Name: [Joe Quinn](https://github.com/jpquinn1)
+- Place: Akron, USA
+- Bio: Student at the University of Akron
+- Github: [jpquinn1](https://github.com/jpquinn1)
+
