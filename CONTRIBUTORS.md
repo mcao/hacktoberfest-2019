@@ -463,6 +463,11 @@
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
 
+#### Name: [Shady Jones](https://github.com/eholmes)
+- Place: USA
+- Bio: Ne'er-do-well
+- Github: [eholmes](https://github.com/eholmes)
+
 #### Name: [Jay Yabsley](https://github.com/jayyabsley)
 - Place: Sydney, New South Wales, Australia
 - Bio: Realtime Developer
