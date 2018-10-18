@@ -467,3 +467,23 @@
 - Place: USA
 - Bio: Ne'er-do-well
 - Github: [eholmes](https://github.com/eholmes)
+
+#### Name: [Jay Yabsley](https://github.com/jayyabsley)
+- Place: Sydney, New South Wales, Australia
+- Bio: Realtime Developer
+- GitHub: [jayyabsley](https://github.com/jayyabsley)
+
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, Ohio, USA
+- Bio: HAkron - University of Akron student org
+- Github: [csinko](https://github.com/csinko)
+
+#### Name: [Kenny Bender](https://github.com/Kbender424)
+- Place: Akron, Ohio, Usa
+- Bio: Hakron3000 member 
+- GitHub: [Kbender424](https://github.com/Kbender424)
+
+#### Name: [Joe Quinn](https://github.com/jpquinn1)
+- Place: Akron, USA
+- Bio: Student at the University of Akron
+- Github: [jpquinn1](https://github.com/jpquinn1)
