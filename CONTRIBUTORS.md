@@ -463,6 +463,11 @@
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
 
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, Ohio, USA
+- Bio: HAkron - University of Akron student org
+- Github: [csinko](https://github.com/csinko)
+
 #### Name: [Kenny Bender](https://github.com/Kbender424)
 - Place: Akron, Ohio, Usa
 - Bio: Hakron3000 member 
