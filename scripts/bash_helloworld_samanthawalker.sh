@@ -3,4 +3,4 @@
 // GITHUB: https://github.com/samanthawalker
 
 #!/bin/bash
-echo "Hello World"
+echo "Hello, World!"
