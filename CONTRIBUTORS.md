@@ -462,3 +462,8 @@
 - Place: Prague, Czech Republic
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
+
+#### Name: [Jay Yabsley](https://github.com/jayyabsley)
+- Place: Sydney, New South Wales, Australia
+- Bio: Realtime Developer
+- GitHub: [jayyabsley](https://github.com/jayyabsley)
