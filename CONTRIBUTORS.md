@@ -463,6 +463,11 @@
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
 
+#### Name: [Jay Yabsley](https://github.com/jayyabsley)
+- Place: Sydney, New South Wales, Australia
+- Bio: Realtime Developer
+- GitHub: [jayyabsley](https://github.com/jayyabsley)
+
 #### Name: [Cameron Sinko](https://github.com/csinko)
 - Place: Akron, Ohio, USA
 - Bio: HAkron - University of Akron student org
