@@ -463,8 +463,12 @@
 - Bio: Android Developer
 - Github: [micer](https://github.com/micer)
 
+#### Name: [Kenny Bender](https://github.com/Kbender424)
+- Place: Akron, Ohio, Usa
+- Bio: Hakron3000 member 
+- GitHub: [Kbender424](https://github.com/Kbender424)
+
 #### Name: [Joe Quinn](https://github.com/jpquinn1)
 - Place: Akron, USA
 - Bio: Student at the University of Akron
 - Github: [jpquinn1](https://github.com/jpquinn1)
-
