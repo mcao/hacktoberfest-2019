@@ -33,6 +33,11 @@
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
 
+#### Name: [Matt Ackard](https://github.com/mattackard)
+- Place: California, USA
+- Bio: Self-taught developer
+- GitHub: [Matt Ackard](https://github.com/mattackard)
+
 #### Name: [Kyaa Kats](https://github.com/KyaaKats)
 - Place: Hawaii
 - Bio: Student at University of Hawaii
