@@ -492,3 +492,8 @@
 - Place: Akron, USA
 - Bio: Student at the University of Akron
 - Github: [jpquinn1](https://github.com/jpquinn1)
+
+#### Name: [Timothy Mardesen] (https://github.com/timmay54)
+- Place: Macomb, Illinois, USA
+- Bio: Rapper, Hacker, Farmer, Show Cattle Enthusiast
+- Github: [timmay54] (https://github.com/timmay54)

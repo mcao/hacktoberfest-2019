@@ -32,7 +32,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 git clone https://github.com/your-username/hacktoberfest.git
 ```
 
-* Make your changes (choose from any task above)
+* Make your changes (choose from any task below)
 * Commit and push
 
 ```markdown
