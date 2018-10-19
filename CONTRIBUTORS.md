@@ -492,3 +492,8 @@
 - Place: Akron, USA
 - Bio: Student at the University of Akron
 - Github: [jpquinn1](https://github.com/jpquinn1)
+
+#### Name: [Pooja Agarwal](https://github.com/agarwalpooja)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
