@@ -1,3 +1,8 @@
+#### Name: [André Decher](https://github.com/Wolfy7)
+- Place: Buseck, Germany
+- Bio: Software Developer
+- GitHub: [Wolfy7](https://github.com/Wolfy7)
+
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
 - Bio: Graduate Student at University of Utah
@@ -495,7 +500,7 @@
 
 #### Name: [Kenny Bender](https://github.com/Kbender424)
 - Place: Akron, Ohio, Usa
-- Bio: Hakron3000 member 
+- Bio: Hakron3000 member
 - GitHub: [Kbender424](https://github.com/Kbender424)
 
 #### Name: [Joe Quinn](https://github.com/jpquinn1)
