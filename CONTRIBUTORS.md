@@ -1,3 +1,8 @@
+#### Name: [Samantha Walker](https://github.com/samanthawalker)
+- Place: Salt Lake City, Utah, USA
+- Bio: Graduate Student at University of Utah
+- GitHub: [samanthawalker](https://github.com/samanthawalker)
+
 #### Name: [Antonio Fiorillo](https://github.com/antoniofiorillo)
 - Place: Termoli (CB), Italy
 - Bio: Web Developer freelance
