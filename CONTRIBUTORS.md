@@ -512,3 +512,8 @@
 - Place: Bhubaneswar, Odisha
 - Bio: Student
 - GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
+
+#### Name: [Taewan Park](https://github.com/Taewan-P)
+- Place: Seoul, Republic of Korea
+- Bio: Student
+- GitHub: [Taewan Park](https://github.com/Taewan-P)
