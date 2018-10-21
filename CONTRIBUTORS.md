@@ -516,4 +516,4 @@
 #### Name: [Taewan Park](https://github.com/Taewan-P)
 - Place: Seoul, Republic of Korea
 - Bio: Student
-- GitHub: [Taewan Park](https://github.com/Taewan-P)
+- GitHub: [Taewan-P](https://github.com/Taewan-P)
