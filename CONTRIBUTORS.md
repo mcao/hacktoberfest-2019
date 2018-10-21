@@ -432,3 +432,8 @@
 - Place: White Plains, New York, USA
 - Bio: Business Administration and Management-Finance Major in the Questrom School of Business at Boston University
 - Github: [wzhouwzhou](https://github.com/wzhouwzhou)
+
+#### Name: [Ruphaa Ganesh](https://github.com/ruphaa)
+- Place: India
+- Bio: Software Engineer at Freshworks
+- Github: [ruphaa](https://github.com/ruphaa)
