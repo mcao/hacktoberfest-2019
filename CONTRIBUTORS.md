@@ -2,7 +2,12 @@
 - Place: Buseck, Germany
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
--
+
+#### Name: [Samantha Walker](https://github.com/samanthawalker)
+- Place: Salt Lake City, Utah, USA
+- Bio: Graduate Student at University of Utah
+- GitHub: [samanthawalker](https://github.com/samanthawalker)
+
 #### Name: [Antonio Fiorillo](https://github.com/antoniofiorillo)
 - Place: Termoli (CB), Italy
 - Bio: Web Developer freelance
@@ -37,6 +42,11 @@
 - Place: Andalucia, ESP
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
+#### Name: [Matt Ackard](https://github.com/mattackard)
+- Place: California, USA
+- Bio: Self-taught developer
+- GitHub: [Matt Ackard](https://github.com/mattackard)
 
 #### Name: [Kyaa Kats](https://github.com/KyaaKats)
 - Place: Hawaii
@@ -497,3 +507,8 @@
 - Place: Akron, USA
 - Bio: Student at the University of Akron
 - Github: [jpquinn1](https://github.com/jpquinn1)
+
+#### Name: [Pooja Agarwal](https://github.com/agarwalpooja)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
