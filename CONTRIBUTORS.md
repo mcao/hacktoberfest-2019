@@ -517,3 +517,8 @@
 - Place: Seoul, Republic of Korea
 - Bio: Student
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
+
+#### Name: [ecebear14](https://github.com/ecebear14)
+- Place: Austin, TX, USA
+- Bio: Electrical & Computer Engineer
+- GitHub: [ecebear14](https://github.com/ecebear14)
