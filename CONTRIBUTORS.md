@@ -517,3 +517,8 @@
 - Place: Seoul, Republic of Korea
 - Bio: Student
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
+
+#### Name: [Zak Lezaja](https://github.com/tanukimusic)
+- Place: UK
+- Bio: Student
+- GitHub: [tanukimusic](https://github.com/tanukimusic)
