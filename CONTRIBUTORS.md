@@ -533,6 +533,11 @@
 - Bio: Student
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
 
+#### Name: [Zak Lezaja](https://github.com/tanukimusic)
+- Place: UK
+- Bio: Student
+- GitHub: [tanukimusic](https://github.com/tanukimusic)
+
 #### Name: [ecebear14](https://github.com/ecebear14)
 - Place: Austin, TX, USA
 - Bio: Electrical & Computer Engineer
