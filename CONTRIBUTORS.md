@@ -516,7 +516,12 @@
 #### Name: [Pooja Agarwal](https://github.com/agarwalpooja)
 - Place: Bhubaneswar, Odisha
 - Bio: Student
-- GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
+- GitHub: [Lukas Scholz](https://github.com/agarwalpooja
+
+#### Name: [Malvika Sharma](https://github.com/MalvikaSh)
+- Place: Jaipur, Rajasthan
+- Bio: Student
+- Github: [MalvikaSh](https://github.com/MalvikaSh)
 
 #### Name: [Taewan Park](https://github.com/Taewan-P)
 - Place: Seoul, Republic of Korea
