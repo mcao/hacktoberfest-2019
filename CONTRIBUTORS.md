@@ -453,6 +453,11 @@
 - Bio: Business Administration and Management-Finance Major in the Questrom School of Business at Boston University
 - Github: [wzhouwzhou](https://github.com/wzhouwzhou)
 
+#### Name: [Ruphaa Ganesh](https://github.com/ruphaa)
+- Place: India
+- Bio: Software Engineer at Freshworks
+- Github: [ruphaa](https://github.com/ruphaa)
+
 #### Name: [Domenick DiBiase](https://github.com/Domenick97)
 - Place: North Carolina, USA
 - Bio: Computer Science Undergraduate
@@ -513,6 +518,16 @@
 - Bio: Student
 - GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
 
+### Name: [Dayitva Goel](https://github.com/Dayitva)
+- Place: Karawang, Indonesia
+- Bio: Senior School Garduate from DPS Indonesia
+- GitHub: [Dayitva Goel](https://github.com/Dayitva)
+
+#### Name: [Malvika Sharma](https://github.com/MalvikaSh)
+- Place: Jaipur, Rajasthan
+- Bio: Student
+- Github: [MalvikaSh](https://github.com/MalvikaSh)
+
 #### Name: [Taewan Park](https://github.com/Taewan-P)
 - Place: Seoul, Republic of Korea
 - Bio: Student
@@ -522,3 +537,13 @@
 - Place: OKC, USA
 - Bio: Francis Tuttle Student
 - GitHub: [BigBoyPayton](https://github.com/BigBoyPayton)
+
+#### Name: [Zak Lezaja](https://github.com/tanukimusic)
+- Place: UK
+- Bio: Student
+- GitHub: [tanukimusic](https://github.com/tanukimusic)
+
+#### Name: [ecebear14](https://github.com/ecebear14)
+- Place: Austin, TX, USA
+- Bio: Electrical & Computer Engineer
+- GitHub: [ecebear14](https://github.com/ecebear14)
