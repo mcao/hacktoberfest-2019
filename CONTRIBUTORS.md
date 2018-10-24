@@ -516,7 +516,12 @@
 #### Name: [Pooja Agarwal](https://github.com/agarwalpooja)
 - Place: Bhubaneswar, Odisha
 - Bio: Student
-- GitHub: [Lukas Scholz](https://github.com/agarwalpooja
+- GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
+
+### Name: [Dayitva Goel](https://github.com/Dayitva)
+- Place: Karawang, Indonesia
+- Bio: Senior School Garduate from DPS Indonesia
+- GitHub: [Dayitva Goel](https://github.com/Dayitva)
 
 #### Name: [Malvika Sharma](https://github.com/MalvikaSh)
 - Place: Jaipur, Rajasthan
