@@ -1,7 +1,22 @@
+#### Name: [André Decher](https://github.com/Wolfy7)
+- Place: Buseck, Germany
+- Bio: Software Developer
+- GitHub: [Wolfy7](https://github.com/Wolfy7)
+
+#### Name: [Samantha Walker](https://github.com/samanthawalker)
+- Place: Salt Lake City, Utah, USA
+- Bio: Graduate Student at University of Utah
+- GitHub: [samanthawalker](https://github.com/samanthawalker)
+
 #### Name: [Antonio Fiorillo](https://github.com/antoniofiorillo)
 - Place: Termoli (CB), Italy
 - Bio: Web Developer freelance
 - GitHub: [antoniofiorillo](https://github.com/antoniofiorillo)
+
+#### Name: [Lukas Scholz](https://github.com/therealgherkhin)
+- Place: Halle, Germany
+- Bio: Student
+- GitHub: [Lukas Scholz](https://github.com/therealgherkhin)
 
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
@@ -27,6 +42,11 @@
 - Place: Andalucia, ESP
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
+#### Name: [Matt Ackard](https://github.com/mattackard)
+- Place: California, USA
+- Bio: Self-taught developer
+- GitHub: [Matt Ackard](https://github.com/mattackard)
 
 #### Name: [Kyaa Kats](https://github.com/KyaaKats)
 - Place: Hawaii
@@ -219,7 +239,7 @@
 - GitHub: [nath1as](https://github.com/nath1as)
 
 #### Name: [David Quan](https://github.com/David-Quan00)
-- Place: Toronto, Canada 
+- Place: Toronto, Canada
 - Bio: Programmer
 - GitHub: [David-Quan00](https://github.com/David-Quan00)
 
@@ -437,3 +457,68 @@
 - Place: India
 - Bio: Software Engineer at Freshworks
 - Github: [ruphaa](https://github.com/ruphaa)
+
+#### Name: [Domenick DiBiase](https://github.com/Domenick97)
+- Place: North Carolina, USA
+- Bio: Computer Science Undergraduate
+- Github: [Domenick97](https://github.com/Domenick97)
+
+#### Name: Wanjiru Catherine
+- Bio: Computer Science Student | Android developer| AI enthusiast
+- Github: [kateshiru](github.com/kateshiru)
+- Twitter: [shiru_munene](https://twitter.com/shiru_munene)
+
+#### Name: [Helen França Medeiros](https://github.com/helenfranca)
+ - Place: Serra, Espírito Santo, Brazil
+ - Bio: Bachelor's student in information systems, love to travel and listen to music. I programm in Python, Java, C, Html and CSS.
+ - GitHub: [helenfranca](https://github.com/helenfranca)
+
+#### Name: [David Krischke](https://github.com/dhinske)
+- Place: Hamburg, Germany
+- Bio: Software Engineer
+- GitHub: [dhinske](https://github.com/dhinske)
+
+#### Name: [Michal Cerman](https://github.com/micer)
+- Place: Prague, Czech Republic
+- Bio: Android Developer
+- Github: [micer](https://github.com/micer)
+
+#### Name: [Michal Cerman](https://github.com/mayankagg9722)
+- Place: INDIA
+- Bio: Android Developer
+- Github: [mayankagg9722](https://github.com/mayankagg9722)
+
+#### Name: [Shady Jones](https://github.com/eholmes)
+- Place: USA
+- Bio: Ne'er-do-well
+- Github: [eholmes](https://github.com/eholmes)
+
+#### Name: [Jay Yabsley](https://github.com/jayyabsley)
+- Place: Sydney, New South Wales, Australia
+- Bio: Realtime Developer
+- GitHub: [jayyabsley](https://github.com/jayyabsley)
+
+#### Name: [Cameron Sinko](https://github.com/csinko)
+- Place: Akron, Ohio, USA
+- Bio: HAkron - University of Akron student org
+- Github: [csinko](https://github.com/csinko)
+
+#### Name: [Kenny Bender](https://github.com/Kbender424)
+- Place: Akron, Ohio, Usa
+- Bio: Hakron3000 member
+- GitHub: [Kbender424](https://github.com/Kbender424)
+
+#### Name: [Joe Quinn](https://github.com/jpquinn1)
+- Place: Akron, USA
+- Bio: Student at the University of Akron
+- Github: [jpquinn1](https://github.com/jpquinn1)
+
+#### Name: [Pooja Agarwal](https://github.com/agarwalpooja)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
+
+#### Name: [Taewan Park](https://github.com/Taewan-P)
+- Place: Seoul, Republic of Korea
+- Bio: Student
+- GitHub: [Taewan-P](https://github.com/Taewan-P)
