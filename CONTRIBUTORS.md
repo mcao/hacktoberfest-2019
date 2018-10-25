@@ -518,6 +518,11 @@
 - Bio: Student
 - GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
 
+#### Name: [Siddhant Mund](https://github.com/iamsid2)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Siddhant Mund](https://github.com/iamsid2)
+
 ### Name: [Dayitva Goel](https://github.com/Dayitva)
 - Place: Karawang, Indonesia
 - Bio: Senior School Garduate from DPS Indonesia
