@@ -548,6 +548,11 @@
 - Bio: Electrical & Computer Engineer
 - GitHub: [ecebear14](https://github.com/ecebear14)
 
+#### Name: [Greg Nicotera](http://github.com/gregnicotera)
+- Place: Buffalo, NY, USA
+- Bio: Computer Science Student
+- GitHub: [Greg Nicotera](http://github.com/gregnicotera)
+
 #### Name: [Nick Grey](https://github.com/ngrey5)
 - Place: Menomonie WI, USA
 - Bio: Applied Mathematics & Computer Science
