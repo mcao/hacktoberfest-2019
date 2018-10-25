@@ -547,3 +547,8 @@
 - Place: Austin, TX, USA
 - Bio: Electrical & Computer Engineer
 - GitHub: [ecebear14](https://github.com/ecebear14)
+
+#### Name: [Nick Grey](https://github.com/ngrey5)
+- Place: Menomonie WI, USA
+- Bio: Applied Mathematics & Computer Science
+- GitHub: [ngrey5](https://github.com/ngrey5)
