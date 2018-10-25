@@ -1,0 +1,11 @@
+// LANGUAGE:  Deadfish~
+// MORE INFO: https://esolangs.org/wiki/Deadfish~
+// AUTHOR:    Timothy Keith
+// GITHUB:    https://github.com/keithieopia
+// 
+// Deadfish~ doesn't support comments, remove anything starting with a 
+// double forward slash. Also, the following isn't a typo: 
+//
+// w prints "Hello, World!"
+
+w

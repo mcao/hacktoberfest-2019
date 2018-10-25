@@ -1,0 +1,11 @@
+// LANGUAGE:  HQ9+
+// MORE INFO: https://esolangs.org/wiki/HQ9%2B
+// AUTHOR:    Timothy Keith
+// GITHUB:    https://github.com/keithieopia
+// 
+// HQ9+ doesn't support comments, remove anything starting with a 
+// double forward slash. Also, the following isn't a typo: 
+//
+// H prints "hello, world"
+
+H
