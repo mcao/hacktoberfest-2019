@@ -562,3 +562,8 @@
 - Place: Menomonie WI, USA
 - Bio: Applied Mathematics & Computer Science
 - GitHub: [ngrey5](https://github.com/ngrey5)
+
+#### Name: [Denny Cao](https://github.com/DennyizHere)
+- Place: Fremont, CA, USA
+- Bio: Newly graduated computer science student
+- GitHub: [DennyizHere](https://github.com/DennyizHere)
