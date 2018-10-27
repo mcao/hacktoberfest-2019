@@ -567,3 +567,8 @@
 - Place: Fremont, CA, USA
 - Bio: Newly graduated computer science student
 - GitHub: [DennyizHere](https://github.com/DennyizHere)
+
+#### Name: [Blueakyes](https://github.com/Blueskyes)
+- Place: USA
+- Bio: Student
+- GitHub: [Blueskyes](https://github.com/Blueskyes)
