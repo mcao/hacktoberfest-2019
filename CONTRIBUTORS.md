@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
 
+#### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Satyajeet Patnayak](https://github.com/satyaa1996)
+
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
 - Bio: Graduate Student at University of Utah
