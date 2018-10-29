@@ -543,6 +543,11 @@
 - Bio: Student
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
 
+#### Name: [Adarsh Vijay](https://github.com/adarsh-av13)
+- Place: Kerala, India
+- Bio: Student
+- GitHub: [Adarsh Vijay](https://github.com/adarsh-av13)
+
 #### Name: [Payton G](https://github.com/BigBoyPayton)
 - Place: OKC, USA
 - Bio: Francis Tuttle Student
@@ -582,4 +587,3 @@
 - Place: BR
 - Bio: Backend Developer
 - GitHub: [Natures Prophet](https://github.com/NaturesProphet)
-
