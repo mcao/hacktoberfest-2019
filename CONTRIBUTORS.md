@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
 
+#### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Satyajeet Patnayak](https://github.com/satyaa1996)
+
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
 - Bio: Graduate Student at University of Utah
@@ -453,6 +458,11 @@
 - Bio: Business Administration and Management-Finance Major in the Questrom School of Business at Boston University
 - Github: [wzhouwzhou](https://github.com/wzhouwzhou)
 
+#### Name: [Ruphaa Ganesh](https://github.com/ruphaa)
+- Place: India
+- Bio: Software Engineer at Freshworks
+- Github: [ruphaa](https://github.com/ruphaa)
+
 #### Name: [Domenick DiBiase](https://github.com/Domenick97)
 - Place: North Carolina, USA
 - Bio: Computer Science Undergraduate
@@ -513,6 +523,21 @@
 - Bio: Student
 - GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
 
+#### Name: [Siddhant Mund](https://github.com/iamsid2)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Siddhant Mund](https://github.com/iamsid2)
+
+### Name: [Dayitva Goel](https://github.com/Dayitva)
+- Place: Karawang, Indonesia
+- Bio: Senior School Garduate from DPS Indonesia
+- GitHub: [Dayitva Goel](https://github.com/Dayitva)
+
+#### Name: [Malvika Sharma](https://github.com/MalvikaSh)
+- Place: Jaipur, Rajasthan
+- Bio: Student
+- Github: [MalvikaSh](https://github.com/MalvikaSh)
+
 #### Name: [Taewan Park](https://github.com/Taewan-P)
 - Place: Seoul, Republic of Korea
 - Bio: Student
@@ -522,3 +547,43 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [Adarsh Vijay](https://github.com/adarsh-av13)
+
+#### Name: [Payton G](https://github.com/BigBoyPayton)
+- Place: OKC, USA
+- Bio: Francis Tuttle Student
+- GitHub: [BigBoyPayton](https://github.com/BigBoyPayton)
+
+#### Name: [Zak Lezaja](https://github.com/tanukimusic)
+- Place: UK
+- Bio: Student
+- GitHub: [tanukimusic](https://github.com/tanukimusic)
+
+#### Name: [ecebear14](https://github.com/ecebear14)
+- Place: Austin, TX, USA
+- Bio: Electrical & Computer Engineer
+- GitHub: [ecebear14](https://github.com/ecebear14)
+
+#### Name: [Greg Nicotera](http://github.com/gregnicotera)
+- Place: Buffalo, NY, USA
+- Bio: Computer Science Student
+- GitHub: [Greg Nicotera](http://github.com/gregnicotera)
+
+#### Name: [Nick Grey](https://github.com/ngrey5)
+- Place: Menomonie WI, USA
+- Bio: Applied Mathematics & Computer Science
+- GitHub: [ngrey5](https://github.com/ngrey5)
+
+#### Name: [Denny Cao](https://github.com/DennyizHere)
+- Place: Fremont, CA, USA
+- Bio: Newly graduated computer science student
+- GitHub: [DennyizHere](https://github.com/DennyizHere)
+
+#### Name: [Blueakyes](https://github.com/Blueskyes)
+- Place: USA
+- Bio: Student
+- GitHub: [Blueskyes](https://github.com/Blueskyes)
+
+#### Name: [Mateus Garcua](https://github.com/NaturesProphet)
+- Place: BR
+- Bio: Backend Developer
+- GitHub: [Natures Prophet](https://github.com/NaturesProphet)
