@@ -587,3 +587,8 @@
 - Place: BR
 - Bio: Backend Developer
 - GitHub: [Natures Prophet](https://github.com/NaturesProphet)
+
+#### Name: [Daniel Teske](https://github.com/dnltsk)
+- Place: GER
+- Bio: Engineer
+- GitHub: [Daniel Teske](https://github.com/dnltsk)
