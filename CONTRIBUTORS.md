@@ -587,3 +587,8 @@
 - Place: BR
 - Bio: Backend Developer
 - GitHub: [Natures Prophet](https://github.com/NaturesProphet)
+
+#### Name: [Marvin Olomu](https://github.com/xyz-neory)
+- Place: GER
+- Bio: Student
+- GitHub: [xyz-neory](https://github.com/xyz-neory)
