@@ -592,3 +592,8 @@
 - Place: GER
 - Bio: Engineer
 - GitHub: [Daniel Teske](https://github.com/dnltsk)
+
+### Name: Lincoln Costa
+- Place: Brazil
+- Bio: Full Stack Web Developer
+- GitHub: [Tekpixo](https://github.com/tekpixo)
