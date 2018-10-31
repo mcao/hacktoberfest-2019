@@ -602,3 +602,8 @@
 - Place: Brazil
 - Bio: Full Stack Web Developer
 - GitHub: [Tekpixo](https://github.com/tekpixo)
+
+#### Name: [Vasilis Sakkas](https://github.com/billsakkas)
+- Place: Thessaloniki, Greece
+- Bio: Software Engineer
+- GitHub: [Vasilis Sakkas](https://github.com/billsakkas)
