@@ -592,3 +592,13 @@
 - Place: GER
 - Bio: Student
 - GitHub: [xyz-neory](https://github.com/xyz-neory)
+
+#### Name: [Daniel Teske](https://github.com/dnltsk)
+- Place: GER
+- Bio: Engineer
+- GitHub: [Daniel Teske](https://github.com/dnltsk)
+
+### Name: Lincoln Costa
+- Place: Brazil
+- Bio: Full Stack Web Developer
+- GitHub: [Tekpixo](https://github.com/tekpixo)
