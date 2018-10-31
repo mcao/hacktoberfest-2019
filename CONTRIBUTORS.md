@@ -588,7 +588,7 @@
 - Bio: Backend Developer
 - GitHub: [Natures Prophet](https://github.com/NaturesProphet)
 
-Name: Lincoln Costa
-Place: Brazil
-Bio: Full Stack Web Developer
-GitHub: [Tekpixo](https://github.com/tekpixo)
+### Name: Lincoln Costa
+- Place: Brazil
+- Bio: Full Stack Web Developer
+- GitHub: [Tekpixo](https://github.com/tekpixo)
