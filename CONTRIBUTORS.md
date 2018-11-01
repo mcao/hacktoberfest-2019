@@ -602,3 +602,8 @@
 - Place: Brazil
 - Bio: Full Stack Web Developer
 - GitHub: [Tekpixo](https://github.com/tekpixo)
+
+#### Name: [Matty](https://github.com/MattyLaLuna)
+- Place: California, USA
+- Bio: CS Student
+- GitHub: [Matty](https://github.com/MattyLaLuna)
