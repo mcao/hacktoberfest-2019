@@ -607,3 +607,8 @@
 - Place: California, USA
 - Bio: CS Student
 - GitHub: [Matty](https://github.com/MattyLaLuna)
+
+#### Name: [Ceef Box](https://github.com/ceefbox)
+- Place: Miami, Florida, USA
+- Bio: Hobbiest, Reader
+- GitHub: [Ceefbox](https://github.com/ceefbob)
