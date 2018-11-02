@@ -603,6 +603,11 @@
 - Bio: Full Stack Web Developer
 - GitHub: [Tekpixo](https://github.com/tekpixo)
 
+#### Name: [Matty](https://github.com/MattyLaLuna)
+- Place: California, USA
+- Bio: CS Student
+- GitHub: [Matty](https://github.com/MattyLaLuna)
+
 #### Name: [Ceef Box](https://github.com/ceefbox)
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
