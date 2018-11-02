@@ -602,3 +602,8 @@
 - Place: Brazil
 - Bio: Full Stack Web Developer
 - GitHub: [Tekpixo](https://github.com/tekpixo)
+
+#### Name: [Ceef Box](https://github.com/ceefbox)
+- Place: Miami, Florida, USA
+- Bio: Hobbiest, Reader
+- GitHub: [Ceefbox](https://github.com/ceefbob)
