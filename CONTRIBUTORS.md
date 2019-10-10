@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Muhamad Biki Hamzah](https://github.com/bicky33)
+- Place: Semarang, Indonesia
+- Bio: CS Student
+- GitHub: [bicky33](https://github.com/bicky33)
