@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Vamisola](https://github.com/vamisola)
+- Place: Melbourne, Australia
+- Bio: Web Developer
+- GitHub: [vamisola](https://github.com/vamisola)
