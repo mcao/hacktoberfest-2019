@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name [Greg James](https://github.com/gregyjames)
+- Place: Chicago, Illinois
+- Bio: Undergraduate
+- GitHum: [Greg James](https://github.com/gregyjames)
