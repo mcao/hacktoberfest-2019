@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Isaac Anohene](https://github.com/anohene1)
+- Place: Kumasi, Ghana
+- Bio: Undergraduate, Kotlin Developer
+- GitHub: [anohene1](https://github.com/anohene1)
