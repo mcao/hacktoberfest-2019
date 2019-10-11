@@ -93,6 +93,11 @@
 - Bio: Random person that codes & plays Overwatch
 - Github: [redraskal](https://github.com/redraskal)
 
+#### Name: [Alejandro Garcia](https://github.com/OwboxAl3x)
+- Place: Andalucia, ESP
+- Bio: Student at Universidad de Granada
+- GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
 #### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
 - Place: Massachusetts, USA
 - Bio: Student at LSE
