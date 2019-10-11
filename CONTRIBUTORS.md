@@ -631,4 +631,4 @@
 #### Name [Greg James](https://github.com/gregyjames)
 - Place: Chicago, Illinois
 - Bio: Undergraduate
-- GitHum: [Greg James](https://github.com/gregyjames)
+- GitHub: [Greg James](https://github.com/gregyjames)
