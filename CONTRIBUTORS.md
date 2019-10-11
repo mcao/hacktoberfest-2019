@@ -38,6 +38,11 @@
 - Bio: Proect manager turned developer
 - GitHub: [Evgeny Kasian](https://github.com/ievgenk)
 
+#### Name: [Akshay Jain](https://github.com/aksJain0)
+- Place: Delhi, India
+- Bio: Software developer
+- GitHub: [aksJain0](https://github.com/aksJain0)
+
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
 - Bio: Student at Penn State University
