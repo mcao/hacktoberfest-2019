@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [mrforprogrammer](https://github.com/mrforprogrammer)
+- Place: Samara, Russia
+- Bio: Tester
+- GitHub: [mrforprogrammer](https://github.com/mrforprogrammer)
