@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Myriame Ouzineb](https://github.com/Harklink)
+- Place: Versailles, France
+- Bio: Undergraduate
+- GitHub: [Harklink](https://github.com/Harklink)
