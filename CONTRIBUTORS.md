@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Bao Nguyen](https://github.com/baonguyen1320)
+- Place: Hochiminh, Vietnam
+- Bio: Backend Developer
+- GitHub: [baonguyen1320](https://github.com/baonguyen1320)
