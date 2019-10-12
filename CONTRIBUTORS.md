@@ -1,4 +1,4 @@
-#### Name: [André Decher](https://github.com/Wolfy7)
+﻿#### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Rishav Mishra](https://github.com/Rishav0809)
+- Place: Jharkhand, India
+- Bio: Undergraduate
+- GitHub: [Rishav0809](https://github.com/Rishav0809)
