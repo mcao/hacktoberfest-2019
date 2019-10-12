@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Helen](https://github.com/helenking029)
+- Place: British Columbia, Canada
+- Bio: Technical Specialist
+- GitHub: [helenking029](https://github.com/helenking029)
