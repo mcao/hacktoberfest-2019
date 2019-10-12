@@ -1,3 +1,8 @@
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
+- Place: Bucharest, Romania
+- Bio: Student
+- GitHub: [Marinescu Sebastian](https://github.com/sebika)
+
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
 - Bio: Software Developer
