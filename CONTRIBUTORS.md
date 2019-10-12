@@ -33,6 +33,11 @@
 - Bio: Student at PUCRS University
 - GitHub: [Ana Carolina](https://github.com/anacdf)
 
+#### Name: [Fayaz Azeem P](https://github.com/Fayazazeemp)
+- Place: kerala,india
+- Bio: Student at cochin University
+- GitHub: [Fayazazeemp](https://github.com/Fayazazeemp)
+
 #### Name: [Evgeny Kasian](https://github.com/ievgenk)
 - Place: Vancouver, Canada
 - Bio: Proect manager turned developer
