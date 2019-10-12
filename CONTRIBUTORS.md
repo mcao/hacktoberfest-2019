@@ -627,3 +627,9 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Tejas Amle](https://github.com/TejasAmle)
+- Place: Delhi, India
+- Bio: Undergraduate
+- GitHub: [NavodaKaluarachchi](https://github.com/TejasAmle)
+- LinkedIn: https://www.linkedin.com/in/tejas-amle
