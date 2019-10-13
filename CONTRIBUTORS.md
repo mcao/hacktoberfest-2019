@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Elyse Segebart](http://github.com/esegebart)
+- Place: Perry, Iowa, USA
+- Bio: Java developer. Student at Capella University. Future goal to work remotely.
+- GitHub: [Esegebart](http://github.com/esegebart)
