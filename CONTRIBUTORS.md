@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Mustafiz Kaifee](https://github.com/Mustafiz04)
+- Place: Jamshedpur, India
+- Bio: Student at NIT Jamshedpur
+- GitHub: [Mustafiz04](https://github.com/Mustafiz04)
