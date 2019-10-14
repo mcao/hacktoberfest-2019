@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Tushar Goyal](https://github.com/b18030)
+- Place: Mandi, India
+- Bio: UNdergraduate #IITIAN
+- GitHub: [b18030](https://github.com/b18030)
+
 #### Name: [Adnan Shoeb Husain](https://github.com/adnanhusain15)
 - Place: Nagpur , Maharastra , India
 - Bio: Undergraduate at Ramdeobaba College of Engineering and Management
