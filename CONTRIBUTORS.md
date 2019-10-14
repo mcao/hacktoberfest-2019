@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Mustafiz Kaifee](https://github.com/Mustafiz04)
+- Place: Jamshedpur, India
+- Bio: Student at NIT Jamshedpur
+- GitHub: [Mustafiz04](https://github.com/Mustafiz04)
+
 #### Name: [Abhishek](https://github.com/unkemptArc99)
 - Place: Bangalore, India
 - Bio: Software Engineer
