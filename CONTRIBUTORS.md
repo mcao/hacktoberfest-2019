@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Myriame Ouzineb](https://github.com/Harklink)
+- Place: Versailles, France
+- Bio: Undergraduate
+- GitHub: [Harklink](https://github.com/Harklink)
+
 #### Name: [Rishav Mishra](https://github.com/Rishav0809)
 - Place: Jharkhand, India
 - Bio: Undergraduate
