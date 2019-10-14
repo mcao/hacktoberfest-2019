@@ -638,6 +638,12 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Tejas Amle](https://github.com/TejasAmle)
+- Place: Delhi, India
+- Bio: Undergraduate
+- GitHub: [Tejas Amle](https://github.com/TejasAmle)
+- LinkedIn: [Tejas Amle] https://www.linkedin.com/in/tejas-amle
+
 #### Name [Greg James](https://github.com/gregyjames)
 - Place: Chicago, Illinois
 - Bio: Undergraduate
