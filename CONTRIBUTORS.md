@@ -1,3 +1,8 @@
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
+- Place: Bucharest, Romania
+- Bio: Student
+- GitHub: [Marinescu Sebastian](https://github.com/sebika)
+
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
 - Bio: Software Developer
@@ -37,6 +42,11 @@
 - Place: Rio Grande do Sul, Brasil
 - Bio: Student at PUCRS University
 - GitHub: [Ana Carolina](https://github.com/anacdf)
+
+#### Name: [Fayaz Azeem P](https://github.com/Fayazazeemp)
+- Place: kerala,india
+- Bio: Student at cochin University
+- GitHub: [Fayazazeemp](https://github.com/Fayazazeemp)
 
 #### Name: [Evgeny Kasian](https://github.com/ievgenk)
 - Place: Vancouver, Canada
@@ -642,6 +652,31 @@
 - Place: Bangalore, India
 - Bio: I am an undergrad student. I do work on blockchains
 - GitHub: [Rehan](https://github.com/rehanvipin)
+
+#### Name: [mrforprogrammer](https://github.com/mrforprogrammer)
+- Place: Samara, Russia
+- Bio: Tester
+- GitHub: [mrforprogrammer](https://github.com/mrforprogrammer)
+
+#### Name: [Myriame Ouzineb](https://github.com/Harklink)
+- Place: Versailles, France
+- Bio: Undergraduate
+- GitHub: [Harklink](https://github.com/Harklink)
+
+#### Name: [Rishav Mishra](https://github.com/Rishav0809)
+- Place: Jharkhand, India
+- Bio: Undergraduate
+- GitHub: [Rishav0809](https://github.com/Rishav0809)
+
+#### Name: [Bao Nguyen](https://github.com/baonguyen1320)
+- Place: Hochiminh, Vietnam
+- Bio: Backend Developer
+- GitHub: [baonguyen1320](https://github.com/baonguyen1320)
+
+#### Name: [Helen](https://github.com/helenking029)
+- Place: British Columbia, Canada
+- Bio: Technical Specialist
+- GitHub: [helenking029](https://github.com/helenking029)
 
 #### Name: [Sudipto Ghosh](https://sudipto.ghosh.pro)
 - Place: New Delhi, India
