@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Rishav Mishra](https://github.com/Rishav0809)
+- Place: Jharkhand, India
+- Bio: Undergraduate
+- GitHub: [Rishav0809](https://github.com/Rishav0809)
+
 #### Name: [Bao Nguyen](https://github.com/baonguyen1320)
 - Place: Hochiminh, Vietnam
 - Bio: Backend Developer
