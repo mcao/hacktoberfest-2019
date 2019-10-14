@@ -648,6 +648,46 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Charles Hopman](https://github.com/CharlesHopman)
+- Place: Colombo, Sri Lanka
+- Bio: Undergraduate
+- GitHub: [CharlesHopman](https://github.com/CharlesHopman)
+
+#### Name: [Tushar Goyal](https://github.com/b18030)
+- Place: Mandi, India
+- Bio: UNdergraduate #IITIAN
+- GitHub: [b18030](https://github.com/b18030)
+
+#### Name: [Adnan Shoeb Husain](https://github.com/adnanhusain15)
+- Place: Nagpur , Maharastra , India
+- Bio: Undergraduate at Ramdeobaba College of Engineering and Management
+- GitHub: [adnanhusain15](https://github.com/adnanhusain15)
+
+#### Name: [Lynin Sokhonn](https://github.com/lyninsokhonn)
+- Place: Phnom Penh, Cambodia
+- Bio: Undergraduate student in Computer Engineering
+- GitHub: [lyninsokhonn](https://github.com/lyninsokhonn)
+
+#### Name: [Elyse Segebart](http://github.com/esegebart)
+- Place: Perry, Iowa, USA
+- Bio: Java developer. Student at Capella University. Future goal to work remotely.
+- GitHub: [Esegebart](http://github.com/esegebart)
+
+#### Name: [Mustafiz Kaifee](https://github.com/Mustafiz04)
+- Place: Jamshedpur, India
+- Bio: Student at NIT Jamshedpur
+- GitHub: [Mustafiz04](https://github.com/Mustafiz04)
+
+#### Name: [Abhishek](https://github.com/unkemptArc99)
+- Place: Bangalore, India
+- Bio: Software Engineer
+- Github: [unkemptArc99](https://github.com/unkemptArc99)
+
+#### Name: [Rehan Vipin](https://github.com/rehanvipin)
+- Place: Bangalore, India
+- Bio: I am an undergrad student. I do work on blockchains
+- GitHub: [Rehan](https://github.com/rehanvipin)
+
 #### Name: [mrforprogrammer](https://github.com/mrforprogrammer)
 - Place: Samara, Russia
 - Bio: Tester
@@ -698,3 +738,13 @@
 - Place: India, Greater Noida 
 - Bio: Student
 - GitHub: [KartikayB]https://github.com/KartikayB
+
+#### Name: [Anthony Reese](https://github.com/reesea)
+- Place: Dubai, UAE
+- Bio: Student
+- GitHub: [Anthony Reese](https://github.com/reesea)
+
+#### Name: [Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
+- Place: Brasília, DF, Brazil
+- Bio: Software Engineering student
+- GitHub: [RenatoBrittoAraujo](https://github.com/RenatoBrittoAraujo)
