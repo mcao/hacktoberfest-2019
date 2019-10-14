@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Charles Hopman](https://github.com/CharlesHopman)
+- Place: Colombo, Sri Lanka
+- Bio: Undergraduate
+- GitHub: [CharlesHopman](https://github.com/CharlesHopman)
+
 #### Name: [Tushar Goyal](https://github.com/b18030)
 - Place: Mandi, India
 - Bio: UNdergraduate #IITIAN
