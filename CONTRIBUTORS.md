@@ -1,7 +1,17 @@
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
+- Place: Bucharest, Romania
+- Bio: Student
+- GitHub: [Marinescu Sebastian](https://github.com/sebika)
+
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
+
+#### Name:Surya Madhavan
+- Place: Mumbai,India
+- Bio: Student
+- GitHub: [greykoalacode](https://github.com/greykoalacode)
 
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
@@ -42,6 +52,11 @@
 - Place: Vancouver, Canada
 - Bio: Proect manager turned developer
 - GitHub: [Evgeny Kasian](https://github.com/ievgenk)
+
+#### Name: [Akshay Jain](https://github.com/aksJain0)
+- Place: Delhi, India
+- Bio: Software developer
+- GitHub: [aksJain0](https://github.com/aksJain0)
 
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
@@ -632,3 +647,34 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Bao Nguyen](https://github.com/baonguyen1320)
+- Place: Hochiminh, Vietnam
+- Bio: Backend Developer
+- GitHub: [baonguyen1320](https://github.com/baonguyen1320)
+
+#### Name: [Helen](https://github.com/helenking029)
+- Place: British Columbia, Canada
+- Bio: Technical Specialist
+- GitHub: [helenking029](https://github.com/helenking029)
+
+#### Name: [Sudipto Ghosh](https://sudipto.ghosh.pro)
+- Place: New Delhi, India
+- Bio: CS Undergraduate Student
+- GitHub: [sudiptog81](https://github.com/sudiptog81)
+
+#### Name: [Tejas Amle](https://github.com/TejasAmle)
+- Place: Delhi, India
+- Bio: Undergraduate
+- GitHub: [Tejas Amle](https://github.com/TejasAmle)
+- LinkedIn: [Tejas Amle] https://www.linkedin.com/in/tejas-amle
+
+#### Name [Greg James](https://github.com/gregyjames)
+- Place: Chicago, Illinois
+- Bio: Undergraduate
+- GitHub: [Greg James](https://github.com/gregyjames)
+
+#### Name: [Soumiya Mathur](https://github.com/soumiyamathur)
+- Place: Philadelphia, PA, USA
+- Bio: Software Professional
+- GitHub: [soumiyamathur](https://github.com/soumiyamathur)
