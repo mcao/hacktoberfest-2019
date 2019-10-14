@@ -693,3 +693,8 @@
 - Place: Philadelphia, PA, USA
 - Bio: Software Professional
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
+
+#### Name: [Anthony Reese](https://github.com/reesea)
+- Place: Dubai, UAE
+- Bio: Student
+- GitHub: [Anthony Reese](https://github.com/reesea)
