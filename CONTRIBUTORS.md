@@ -638,6 +638,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Sudipto Ghosh](https://sudipto.ghosh.pro)
+- Place: New Delhi, India
+- Bio: CS Undergraduate Student
+- GitHub: [sudiptog81](https://github.com/sudiptog81)
+
 #### Name: [Tejas Amle](https://github.com/TejasAmle)
 - Place: Delhi, India
 - Bio: Undergraduate
