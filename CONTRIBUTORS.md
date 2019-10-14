@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Adnan Shoeb Husain](https://github.com/adnanhusain15)
+- Place: Nagpur , Maharastra , India
+- Bio: Undergraduate at Ramdeobaba College of Engineering and Management
+- GitHub: [adnanhusain15](https://github.com/adnanhusain15)
+
 #### Name: [Lynin Sokhonn](https://github.com/lyninsokhonn)
 - Place: Phnom Penh, Cambodia
 - Bio: Undergraduate student in Computer Engineering
