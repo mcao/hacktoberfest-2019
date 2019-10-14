@@ -653,6 +653,11 @@
 - Bio: Software Engineer
 - Github: [unkemptArc99](https://github.com/unkemptArc99)
 
+#### Name: [Rehan Vipin](https://github.com/rehanvipin)
+- Place: Bangalore, India
+- Bio: I am an undergrad student. I do work on blockchains
+- GitHub: [Rehan](https://github.com/rehanvipin)
+
 #### Name: [mrforprogrammer](https://github.com/mrforprogrammer)
 - Place: Samara, Russia
 - Bio: Tester
