@@ -627,8 +627,3 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
-
-#### Name: [Charles Hopman](https://github.com/CharlesHopman)
-- Place: Colombo, Sri Lanka
-- Bio: Undergraduate
-- GitHub: [CharlesHopman](https://github.com/CharlesHopman)
