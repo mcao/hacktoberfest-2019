@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
 
+#### Name:Surya Madhavan
+- Place: Mumbai,India
+- Bio: Student
+- GitHub: [greykoalacode](https://github.com/greykoalacode)
+
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
 - Bio: Student
@@ -37,6 +42,11 @@
 - Place: Vancouver, Canada
 - Bio: Proect manager turned developer
 - GitHub: [Evgeny Kasian](https://github.com/ievgenk)
+
+#### Name: [Akshay Jain](https://github.com/aksJain0)
+- Place: Delhi, India
+- Bio: Software developer
+- GitHub: [aksJain0](https://github.com/aksJain0)
 
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
@@ -632,3 +642,8 @@
 - Place: Chicago, Illinois
 - Bio: Undergraduate
 - GitHub: [Greg James](https://github.com/gregyjames)
+
+#### Name: [Soumiya Mathur](https://github.com/soumiyamathur)
+- Place: Philadelphia, PA, USA
+- Bio: Software Professional
+- GitHub: [soumiyamathur](https://github.com/soumiyamathur)
