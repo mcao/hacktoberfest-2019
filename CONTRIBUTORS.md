@@ -733,3 +733,8 @@
 - Place: Philadelphia, PA, USA
 - Bio: Software Professional
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
+
+#### Name: [Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
+- Place: Brasília, DF, Brazil
+- Bio: Software Engineering student
+- GitHub: [RenatoBrittoAraujo](https://github.com/RenatoBrittoAraujo)
