@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [mrforprogrammer](https://github.com/mrforprogrammer)
+- Place: Samara, Russia
+- Bio: Tester
+- GitHub: [mrforprogrammer](https://github.com/mrforprogrammer)
+
 #### Name: [Myriame Ouzineb](https://github.com/Harklink)
 - Place: Versailles, France
 - Bio: Undergraduate
