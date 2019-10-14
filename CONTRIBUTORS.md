@@ -628,7 +628,7 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
-#### Name: [Samantha Walker](https://github.com/samanthawalker)
+#### Name: [Adnan Husain](https://github.com/adnanhusain15)
 - Place: Nagpur , Maharastra , India
 - Bio: Undergraduate at Ramdeobaba College of Engineering and Management
 - GitHub: [adnanhusain15](https://github.com/adnanhusain15)
