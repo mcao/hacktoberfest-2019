@@ -648,6 +648,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Abhishek](https://github.com/unkemptArc99)
+- Place: Bangalore, India
+- Bio: Software Engineer
+- Github: [unkemptArc99](https://github.com/unkemptArc99)
+
 #### Name: [Rehan Vipin](https://github.com/rehanvipin)
 - Place: Bangalore, India
 - Bio: I am an undergrad student. I do work on blockchains
