@@ -734,6 +734,11 @@
 - Bio: Software Professional
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
 
+#### Name: [Anthony Reese](https://github.com/reesea)
+- Place: Dubai, UAE
+- Bio: Student
+- GitHub: [Anthony Reese](https://github.com/reesea)
+
 #### Name: [Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
 - Place: Brasília, DF, Brazil
 - Bio: Software Engineering student
