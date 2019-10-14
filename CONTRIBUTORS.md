@@ -643,6 +643,11 @@
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
 
+#### Name: [Bao Nguyen](https://github.com/baonguyen1320)
+- Place: Hochiminh, Vietnam
+- Bio: Backend Developer
+- GitHub: [baonguyen1320](https://github.com/baonguyen1320)
+
 #### Name: [Helen](https://github.com/helenking029)
 - Place: British Columbia, Canada
 - Bio: Technical Specialist
