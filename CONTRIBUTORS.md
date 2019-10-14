@@ -3,11 +3,10 @@
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
 
-
 #### Name:Surya Madhavan
--Place: Mumbai,India
--Bio: Student
--GitHub: [greykoalacode](https://github.com/greykoalacode)
+- Place: Mumbai,India
+- Bio: Student
+- GitHub: [greykoalacode](https://github.com/greykoalacode)
 
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
