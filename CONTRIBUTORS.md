@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Tushar Goyal](https://github.com/b18030)
+- Place: Mandi, India
+- Bio: UNdergraduate #IITIAN
+- GitHub: [b18030](https://github.com/b18030)
