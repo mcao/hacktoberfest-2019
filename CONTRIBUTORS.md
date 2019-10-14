@@ -734,6 +734,11 @@
 - Bio: Software Professional
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
 
+#### Name: [Kartikay Bansal](https://github.com/KartikayB)
+- Place: India, Greater Noida 
+- Bio: Student
+- GitHub: [KartikayB]https://github.com/KartikayB
+
 #### Name: [Anthony Reese](https://github.com/reesea)
 - Place: Dubai, UAE
 - Bio: Student
