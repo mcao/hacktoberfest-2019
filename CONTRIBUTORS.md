@@ -748,3 +748,8 @@
 - Place: Brasília, DF, Brazil
 - Bio: Software Engineering student
 - GitHub: [RenatoBrittoAraujo](https://github.com/RenatoBrittoAraujo)
+
+#### Name: [Derek](https://github.com/thestarvingcoder)
+- Place: California, USA
+- Bio: Web Developer
+- GitHub: [thestarvingcoder](https://github.com/thestarvingcoder)
