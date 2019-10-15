@@ -748,3 +748,8 @@
 - Place: Brasília, DF, Brazil
 - Bio: Software Engineering student
 - GitHub: [RenatoBrittoAraujo](https://github.com/RenatoBrittoAraujo)
+
+#### Name: [Kim Kinal](https://github.com/kimkinal)
+- Place: Pursat, Cambodia
+- Bio: Mechanical Engineering Student
+- GitHub: [kimkinal](https://github.com/kimkinal)
