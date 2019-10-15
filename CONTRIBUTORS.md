@@ -749,6 +749,11 @@
 - Bio: Software Engineering student
 - GitHub: [RenatoBrittoAraujo](https://github.com/RenatoBrittoAraujo)
 
+#### Name: [Kim Kinal](https://github.com/kimkinal)
+- Place: Pursat, Cambodia
+- Bio: Mechanical Engineering Student
+- GitHub: [kimkinal](https://github.com/kimkinal)
+
 #### Name: [Derek](https://github.com/thestarvingcoder)
 - Place: California, USA
 - Bio: Web Developer
