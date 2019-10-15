@@ -753,3 +753,8 @@
 - Place: Pursat, Cambodia
 - Bio: Mechanical Engineering Student
 - GitHub: [kimkinal](https://github.com/kimkinal)
+
+#### Name: [Derek](https://github.com/thestarvingcoder)
+- Place: California, USA
+- Bio: Web Developer
+- GitHub: [thestarvingcoder](https://github.com/thestarvingcoder)
