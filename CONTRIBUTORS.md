@@ -763,3 +763,8 @@
 - Place: Bnagalore,India
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
+
+#### Name: [Alfredo Valle](https://github.com/alvalle09)
+- Place: San Benito, Tx, USA
+- Bio: Web Dev 
+- GitHub: [alvalle09](https://github.com/alvalle09)
