@@ -763,3 +763,8 @@
 - Place: Bnagalore,India
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
+
+#### Name: [Devanshu Roy](https://github.com/dROY2357)
+- Place: Bangalore, India
+- Bio: Python enthusiast and coder boi
+- GitHub: [dROY2357](https://github.com/dROY2357)
