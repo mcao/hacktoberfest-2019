@@ -763,3 +763,8 @@
 - Place: Bnagalore,India
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
+
+#### Name: [Gokulakannan S](https://github.com/GokulParzival)
+- Place:Chennai, India
+- Bio: Student
+- GitHub: [Gokulakannan Sakthivel](https://github.com/GokulParzival)
