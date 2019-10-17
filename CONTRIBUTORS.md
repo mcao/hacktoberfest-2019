@@ -763,3 +763,8 @@
 - Place: Bnagalore,India
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
+
+#### Name: [Gayathri Buddhika](https://github.com/gayathribuddhika)
+- Place: Galle, Sri Lanka
+- Bio: Web Developer
+- GitHub: [gayathribuddhika](https://github.com/gayathribuddhika)
