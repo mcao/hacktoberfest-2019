@@ -763,3 +763,8 @@
 - Place: Bnagalore,India
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
+
+### Name: [Alessandro Muscio](https://github.com/AlessandroMuscio)
+- Place: Brescia, Italy
+- Bio: Computer science student
+- GitHub: [AlessandroMuscio](https://github.com/AlessandroMuscio)
