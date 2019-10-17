@@ -763,3 +763,7 @@
 - Place: Bnagalore,India
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
+#### Name: [Vini Maheshwari](https://github.com/Vini2198)
+- Place: Delhi,India
+- Bio: Web Developer
+- GitHub: [Vini2198](https://github.com/Vini2198)
