@@ -38,6 +38,11 @@
 - Bio: Cryptocurrency Enthusiast.
 - GitHub: [moodiest](https://github.com/moodiest)
 
+#### Name: [Alexandre Santos](https://github.com/alexendrios)
+- Place: Brasília, Distrito Federal, Brazil
+- Bio: Quality Assurance Testing Automation
+- GitHub: [alexendrios](https://github.com/alexendrio)
+
 #### Name: [Ana Carolina Ferreira](https://github.com/anacdf)
 - Place: Rio Grande do Sul, Brasil
 - Bio: Student at PUCRS University
