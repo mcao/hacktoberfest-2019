@@ -764,6 +764,11 @@
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
 
+#### Name: [Gayathri Buddhika](https://github.com/gayathribuddhika)
+- Place: Galle, Sri Lanka
+- Bio: Web Developer
+- GitHub: [gayathribuddhika](https://github.com/gayathribuddhika)
+
 #### Name: [Devanshu Roy](https://github.com/dROY2357)
 - Place: Bangalore, India
 - Bio: Python enthusiast and coder boi
