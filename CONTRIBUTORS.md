@@ -829,3 +829,8 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Grayson, LA, USA
+- Bio: Dad, Software Developer
+- GitHub: [scottmercer](https://github.com/scottmercer)
+
