@@ -764,6 +764,11 @@
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
 
+#### Name: [DCox2016](https://github.com/DCox2016)
+- Place: Gainesville, Florida USA
+- Bio: Web Developer/ L2 Support Engineer / Instructor 
+- GitHub: [DCox2016](https://github.com/DCox2016)
+
 #### Name: [Gokulakannan S](https://github.com/GokulParzival)
 - Place:Chennai, India
 - Bio: Student
