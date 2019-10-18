@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Steph Leazer](https://github.com/saleazer82)
+- Place: Oklahoma City, Oklahoma
+- Bio: IT Professional
+- GitHub: [saleazer82](https://github.com/saleazer82)
