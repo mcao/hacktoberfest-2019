@@ -829,3 +829,8 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+### Name: Suneet Jain
+- Place: Noida, India
+- Bio: Tech Enthusiast | Student
+- Github: https://github.com/devilsboy
+
