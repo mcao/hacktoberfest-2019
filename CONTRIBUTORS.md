@@ -1,4 +1,4 @@
-#### Name: [Marinescu Sebastian](https://github.com/sebika)
+﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
@@ -764,7 +764,18 @@
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
 
+#### Name: [Tanish Gupta](https://github.com/d0ppler12)
+- Place: Mumbai,India
+- Bio: Student
+- GitHub: [d0ppler12](https://github.com/d0ppler12/)
+
+#### Name: [Anabel](https://github.com/Camiila23)
+- Place: Arequipa,Peru
+- Bio: Student
+- GitHub: [Camiila23](https://github.com/Camiila23)
+
 #### Name: [Guilherme Fernandes](https://github.com/GuilhermeFernandes01)
 - Place: Bnagalore,India
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
+
