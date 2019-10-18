@@ -823,3 +823,9 @@
 - Place: Arequipa,Peru
 - Bio: Student
 - GitHub: [Camiila23](https://github.com/Camiila23)
+
+#### Name: [Guilherme Fernandes](https://github.com/GuilhermeFernandes01)
+- Place: Bnagalore,India
+- Bio: Software Developer
+- GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
+
