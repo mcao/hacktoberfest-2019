@@ -764,6 +764,11 @@
 - Bio: Web Developer
 - GitHub: [Likhith s r](https://github.com/imlsr)
 
+#### Name: [Mayank Srivastav](https://github.com/codelooper)
+- Place: India
+- Bio: Developer
+- Github: [codelooper](https://github.com/codelooper)
+
 #### Name: [Alfredo Valle](https://github.com/alvalle09)
 - Place: San Benito, Tx, USA
 - Bio: Web Dev 
