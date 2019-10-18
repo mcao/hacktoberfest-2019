@@ -1,4 +1,4 @@
-#### Name: [Marinescu Sebastian](https://github.com/sebika)
+﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
@@ -768,3 +768,43 @@
 - Place: Brescia, Italy
 - Bio: Computer science student
 - GitHub: [AlessandroMuscio](https://github.com/AlessandroMuscio)
+
+#### Name: [Vini Maheshwari](https://github.com/Vini2198)
+- Place: Delhi,India
+- Bio: Web Developer
+- GitHub: [Vini2198](https://github.com/Vini2198)
+
+#### Name: [Gayathri Buddhika](https://github.com/gayathribuddhika)
+- Place: Galle, Sri Lanka
+- Bio: Web Developer
+- GitHub: [gayathribuddhika](https://github.com/gayathribuddhika)
+
+#### Name: [Devanshu Roy](https://github.com/dROY2357)
+- Place: Bangalore, India
+- Bio: Python enthusiast and coder boi
+- GitHub: [dROY2357](https://github.com/dROY2357)
+
+#### Name: [Huy Pham](https://github.com/coder7eeN)
+- Place: Danang, Vietnam
+- Bio: Android Developer
+- GitHub: [coder7eeN](https://github.com/coder7eeN)
+
+#### Name: [Mayank Srivastav](https://github.com/codelooper)
+- Place: India
+- Bio: Developer
+- Github: [codelooper](https://github.com/codelooper)
+
+#### Name: [Alfredo Valle](https://github.com/alvalle09)
+- Place: San Benito, Tx, USA
+- Bio: Web Dev 
+- GitHub: [alvalle09](https://github.com/alvalle09)
+
+#### Name: [Tanish Gupta](https://github.com/d0ppler12)
+- Place: Mumbai,India
+- Bio: Student
+- GitHub: [d0ppler12](https://github.com/d0ppler12/)
+
+#### Name: [Anabel](https://github.com/Camiila23)
+- Place: Arequipa,Peru
+- Bio: Student
+- GitHub: [Camiila23](https://github.com/Camiila23)
