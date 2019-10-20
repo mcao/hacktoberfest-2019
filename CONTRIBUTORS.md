@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Hugo Erazo](https://github.com/hugogilmar)
+- Place: San Salvador, El Salvador
+- Bio: Software Developer
+- GitHub: [hugogilmar](https://github.com/hugogilmar)
