@@ -1,6 +1,6 @@
 #### Name: [Mahesh Jaganiya](https://github.com/jagzmz)
 - Place: Nagpur, Maharashtra, India
-- Bio: Who are you?
+- Bio: Software Developer
 - GitHub: [Mahesh Jaganiya](https://github.com/jagzmz)
 
 ﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
