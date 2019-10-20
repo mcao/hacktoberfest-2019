@@ -10,7 +10,7 @@ Universidad Don Bosco, El Salvador
 
 ### Interests
 
-- Music, Netflix, Cook, Videogames and Develop
+- Music, Netflix, Cook, Video games and Coding
 
 ### Development
 
