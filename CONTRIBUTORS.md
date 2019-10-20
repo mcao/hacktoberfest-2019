@@ -3,6 +3,11 @@
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
 
+﻿#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Monroe, Louisiana, United States
+- Bio: developer
+- GitHub: [Scott Mercer](https://github.com/scottmercer)
+
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
 - Bio: Software Developer
