@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Rigo Ramírez](https://github.com/reegoram)
+- Place: Tabasco, Mexico
+- Bio: Software Developer
+- GitHub: [reegoram](https://github.com/reegoram)
