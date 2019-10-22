@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name:Ashish Sethi
+- Place: Delhi,India
+- Bio: Student
+- GitHub: [geekysethi](https://github.com/geekysethi)
