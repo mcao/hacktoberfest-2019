@@ -1,4 +1,9 @@
-﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
+#### Name: [Rafael Baron](https://github.com/baronrafael)
+- Place: Barcelona, Venezuela
+- Bio: Software Developer
+- GitHub: [Marinescu Sebastian](https://github.com/baronrafael)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
