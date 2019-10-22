@@ -829,3 +829,8 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Aman Jain](https://github.com/amannayak0007)
+- Place: Noida,India
+- Bio: iOS Developer
+- GitHub: [amannayak0007](https://github.com/amannayak0007)
+
