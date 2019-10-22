@@ -830,6 +830,6 @@
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
 #### Name: [John-reid Adams](https://github.com/ItsThatDevJohnAgain)
--Place: Cape Town, South Africa
--Bio: Software Developer. Just Kidding. Student but aspiring to change the world using programming. 
--GitHub: [ItsThatDevJohnAgain](https://github.com/ItsThatDevJohnAgain)
+- Place: Cape Town, South Africa
+- Bio: Software Developer. Just Kidding. Student but aspiring to change the world using programming. 
+- GitHub: [ItsThatDevJohnAgain](https://github.com/ItsThatDevJohnAgain)
