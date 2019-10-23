@@ -735,7 +735,7 @@
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
 
 #### Name: [Kartikay Bansal](https://github.com/KartikayB)
-- Place: India, Greater Noida 
+- Place: India, Greater Noida
 - Bio: Student
 - GitHub: [KartikayB]https://github.com/KartikayB
 
@@ -766,7 +766,7 @@
 
 #### Name: [DCox2016](https://github.com/DCox2016)
 - Place: Gainesville, Florida USA
-- Bio: Web Developer/ L2 Support Engineer / Instructor 
+- Bio: Web Developer/ L2 Support Engineer / Instructor
 - GitHub: [DCox2016](https://github.com/DCox2016)
 
 #### Name: [Gokulakannan S](https://github.com/GokulParzival)
@@ -811,7 +811,7 @@
 
 #### Name: [Alfredo Valle](https://github.com/alvalle09)
 - Place: San Benito, Tx, USA
-- Bio: Web Dev 
+- Bio: Web Dev
 - GitHub: [alvalle09](https://github.com/alvalle09)
 
 #### Name: [Tanish Gupta](https://github.com/d0ppler12)
@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Elloá B. Guedes](https://github.com/elloa)
+- Place: Brazil
+- Bio: Professor
+- GitHub: [elloa](https://github.com/elloa)
