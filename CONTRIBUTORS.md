@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Amith Bhat Nekkare](https://github.com/amithbhat1)
+- Place: Mangaluru, India
+- Bio: Student
+- GitHub:  [Amith Bhat Nekkare](https://github.com/amithbhat1)
