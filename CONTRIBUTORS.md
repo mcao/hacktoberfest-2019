@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name : [surarijit] (https://github.com/surarijit)
+-Place : Durgapur, India
+-Bio : Web Developer and Open Source Enthusiast
+-Github : [surarijit] (https://github.com/surarijit]
