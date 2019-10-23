@@ -833,3 +833,8 @@
 - Place: Oklahoma City, Oklahoma
 - Bio: IT Professional
 - GitHub: [saleazer82](https://github.com/saleazer82)
+
+#### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
+- Place: Bhubaneswar,India
+- Bio: Student
+- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
