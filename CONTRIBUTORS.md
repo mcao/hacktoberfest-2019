@@ -829,6 +829,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Janvi Bhagiya](https://github.com/JSbhagiya)
+- Place: Gujarat,India
+- Bio: Student
+- GitHub: [JSbhagiya](https://github.com/JSbhagiya)
+
 #### Name: [Steph Leazer](https://github.com/saleazer82)
 - Place: Oklahoma City, Oklahoma
 - Bio: IT Professional
