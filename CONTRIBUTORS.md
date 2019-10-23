@@ -829,8 +829,12 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Steph Leazer](https://github.com/saleazer82)
+- Place: Oklahoma City, Oklahoma
+- Bio: IT Professional
+- GitHub: [saleazer82](https://github.com/saleazer82)
+
 #### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
-
