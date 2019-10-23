@@ -108,7 +108,7 @@ Here is my `hello_world` example: [js_helloworld_mcao.js](https://github.com/mca
 * See profiles submitted by fellow coders from around the globe!
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
-* Check your progress here https://hacktoberfest.digitalocean.com/stats
+* Check your progress here https://hacktoberfest.digitalocean.com/profile
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
