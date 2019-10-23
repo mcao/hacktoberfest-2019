@@ -829,6 +829,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Wathin Sonnukij](https://github.com/iamwee)
+- Place: Bangkok, Thailand
+- Bio: Software Engineer
+- GitHub: [iamwee](https://github.com/iamwee)
+
 ### Name: [DHanuesh RC](https://github.com/rcs10)
 - Place: Bangalore,India
 - Bio: Student
