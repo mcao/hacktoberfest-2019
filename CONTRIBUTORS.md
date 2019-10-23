@@ -829,6 +829,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+### Name: [DHanuesh RC](https://github.com/rcs10)
+- Place: Bangalore,India
+- Bio: Student
+- GitHub: [rcs10](https://github.com/rcs10)
+
 #### Name: [Scott Mercer](https://github.com/scottmercer)
 - Place: Grayson, LA, USA
 - Bio: Dad, Software Developer
