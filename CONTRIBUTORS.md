@@ -1,4 +1,9 @@
-﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
+﻿#### Name: [Alaor Resende](https://github.com/alaor)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [alaor](https://github.com/alaor)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
