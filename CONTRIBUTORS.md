@@ -829,3 +829,8 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
+- Place: Bhubaneswar,India
+- Bio: Student
+- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
