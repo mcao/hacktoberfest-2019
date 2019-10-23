@@ -829,3 +829,8 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Rebecca McGowan](https://github.com/rebecca-mcgowan)
+- Place: Salt Lake City, UT
+- Bio: Software Development Engineer
+- GitHub: [rebecca-mcgowan](https://github.com/rebecca-mcgowan)
+
