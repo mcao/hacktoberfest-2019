@@ -833,3 +833,28 @@
 - Place: Bangkok, Thailand
 - Bio: Software Engineer
 - GitHub: [iamwee](https://github.com/iamwee)
+
+### Name: [DHanuesh RC](https://github.com/rcs10)
+- Place: Bangalore,India
+- Bio: Student
+- GitHub: [rcs10](https://github.com/rcs10)
+
+#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Grayson, LA, USA
+- Bio: Dad, Software Developer
+- GitHub: [scottmercer](https://github.com/scottmercer)
+
+#### Name: [Janvi Bhagiya](https://github.com/JSbhagiya)
+- Place: Gujarat,India
+- Bio: Student
+- GitHub: [JSbhagiya](https://github.com/JSbhagiya)
+
+#### Name: [Steph Leazer](https://github.com/saleazer82)
+- Place: Oklahoma City, Oklahoma
+- Bio: IT Professional
+- GitHub: [saleazer82](https://github.com/saleazer82)
+
+#### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
+- Place: Bhubaneswar,India
+- Bio: Student
+- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
