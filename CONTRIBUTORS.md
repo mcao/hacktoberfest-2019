@@ -961,3 +961,8 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Alankrita Shah](https://github.com/AlankritaShah)
+- Place: Udaipur,India
+- Bio: Android Developer
+- GitHub: [AlankritaShah](https://github.com/AlankritaShah)
