@@ -961,3 +961,10 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Christian Findsen](https://github.com/findsen)
+- Place: Malmo, Sweden
+- Bio: Software Engineer
+- GitHub: [Findsen](https://github.com/Findsen)
+
+
