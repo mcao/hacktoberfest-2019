@@ -961,3 +961,8 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Chandan](https://github.com/chandan-reddy-k)
+- Place: Chennai, India
+- Bio: Developer
+- GitHub: [chandan-reddy-k](https://github.com/chandan-reddy-k)
