@@ -1,4 +1,9 @@
-﻿#### Name: [Jhonattan Cabral](https://github.com/jhon3)
+#### Name: [Mahesh Jaganiya](https://github.com/jagzmz)
+- Place: Nagpur, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [Mahesh Jaganiya](https://github.com/jagzmz)
+
+#### Name: [Jhonattan Cabral](https://github.com/jhon3)
 - Place: Natal, Brazil
 - Bio: Student
 - GitHub: [jhon3](https://github.com/jhon3)
