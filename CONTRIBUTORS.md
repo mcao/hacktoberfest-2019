@@ -1,3 +1,8 @@
+#### Name: [Rafael Baron](https://github.com/baronrafael)
+- Place: Barcelona, Venezuela
+- Bio: Software Developer
+- GitHub: [baronrafael](https://github.com/baronrafael)
+
 #### Name: [Mahesh Jaganiya](https://github.com/jagzmz)
 - Place: Nagpur, Maharashtra, India
 - Bio: Software Developer
