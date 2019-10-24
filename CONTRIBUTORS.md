@@ -53,6 +53,12 @@
 - Bio: Cryptocurrency Enthusiast.
 - GitHub: [moodiest](https://github.com/moodiest)
 
+
+#### Name: [Aman Kumar Gupta](https://github.com/akg2000)
+- Place: New Delhi,India
+- Bio: Student,Developer.
+- GitHub: [akg2000](https://github.com/akg2000)
+
 #### Name: [Ana Carolina Ferreira](https://github.com/anacdf)
 - Place: Rio Grande do Sul, Brasil
 - Bio: Student at PUCRS University
