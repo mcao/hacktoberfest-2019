@@ -866,6 +866,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Krish Yadav](https://github.com/Krish-Yadav-2192)
+- Place: Raleigh, USA
+- Bio: Student
+- GitHub: [krish-yadav-2192](https://github.com/Krish-Yadav-2192)
+
 #### Name: [Eduardo Peregrino](https://github.com/eperegrino)
 - Place: Recife, Pernambuco, Brasil
 - Bio: Developer
