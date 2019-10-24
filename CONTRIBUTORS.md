@@ -1,4 +1,9 @@
-﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
+﻿#### Name: [Jhonattan Cabral](https://github.com/jhon3)
+- Place: Natal, Brazil
+- Bio: Student
+- GitHub: [jhon3](https://github.com/jhon3)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
