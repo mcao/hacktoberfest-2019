@@ -866,6 +866,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Rebecca McGowan](https://github.com/rebecca-mcgowan)
+- Place: Salt Lake City, UT
+- Bio: Software Development Engineer
+- GitHub: [rebecca-mcgowan](https://github.com/rebecca-mcgowan)
+
 #### Name: [Krish Yadav](https://github.com/Krish-Yadav-2192)
 - Place: Raleigh, USA
 - Bio: Student
