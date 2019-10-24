@@ -961,3 +961,9 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Vinicius Silva](https://github.com/viniciusfdasilva)
+- Place: Belo Horizonte,Minas Gerais,Brasil
+- Bio: Student
+- GitHub: [viniciusfdasilva](https://github.com/viniciusfdasilva)
+
