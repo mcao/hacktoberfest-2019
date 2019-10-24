@@ -866,6 +866,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name : [surarijit] (https://github.com/surarijit)
+-Place : Durgapur, India
+-Bio : Web Developer and Open Source Enthusiast
+-Github : [surarijit] (https://github.com/surarijit]
+
 #### Name: [Rebecca McGowan](https://github.com/rebecca-mcgowan)
 - Place: Salt Lake City, UT
 - Bio: Software Development Engineer
