@@ -1,3 +1,8 @@
+#### Name: [Alaor Resende](https://github.com/alaor)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [alaor](https://github.com/alaor)
+
 #### Name: [Rafael Baron](https://github.com/baronrafael)
 - Place: Barcelona, Venezuela
 - Bio: Software Developer
