@@ -44,6 +44,12 @@
 - Bio: Student
 - GitHub: [Satyajeet Patnayak](https://github.com/satyaa1996)
 
+#### Name: [Sahini Nayanthara](https://github.com/sahininayanthara)
+- Place: colombo, Sri Lanka
+- Bio: Student
+- GitHub: [sahininayanthara](https://github.com/sahininayanthara)
+
+
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
 - Bio: Graduate Student at University of Utah
