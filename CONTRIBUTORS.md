@@ -829,6 +829,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Nazario Benavides](https://github.com/nazmanager1)
+- Place: Monterrey,Mexico
+- Bio: Software Developer
+- GitHub: [nazmanager1](https://github.com/nazmanager1)
+
 #### Name: [Wathin Sonnukij](https://github.com/iamwee)
 - Place: Bangkok, Thailand
 - Bio: Software Engineer
