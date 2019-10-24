@@ -866,6 +866,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Alwi Bastomi](https://github.com/alwibastomi)
+- Place: Kediri, Indonesia
+- Bio: Fullstack Developer & Designer
+- GitHub: [alwibastomi](https://github.com/alwibastomi)
+
 #### Name : [surarijit] (https://github.com/surarijit)
 -Place : Durgapur, India
 -Bio : Web Developer and Open Source Enthusiast
