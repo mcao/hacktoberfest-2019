@@ -28,6 +28,12 @@
 - Bio: Student
 - GitHub: [greykoalacode](https://github.com/greykoalacode)
 
+#### Name:Mulubwa Chungu
+- Place: Lusaka, Zambia
+- Bio: Back-end developer
+- GitHub: [Mulubwa17] (https://github.com/Mulubwa17)
+
+
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
 - Bio: Student
