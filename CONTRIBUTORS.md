@@ -95,6 +95,11 @@
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
 
+#### Name: [Angeliki Loukatou](https://github.com/AngelikiLk)
+- Place: Birmingham, UK
+- Bio: Modelling Analyst in Energy Systems Catapult
+- GitHub: [Angeliki Loukatou](https://github.com/AngelikiLk)
+
 #### Name: [Matt Ackard](https://github.com/mattackard)
 - Place: California, USA
 - Bio: Self-taught developer
