@@ -1,4 +1,4 @@
-#### Name: [Alaor Resende](https://github.com/dougefr)
+#### Name: [Douglas Rodrigues](https://github.com/dougefr)
 - Place: BH, Brazil
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
