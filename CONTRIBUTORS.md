@@ -861,6 +861,11 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Eduardo Peregrino](https://github.com/eperegrino)
+- Place: Recife, Pernambuco, Brasil
+- Bio: Developer
+- GitHub: [eperegrino](https://github.com/eperegrino)
+
 #### Name:Ashish Sethi
 - Place: Delhi,India
 - Bio: Student
