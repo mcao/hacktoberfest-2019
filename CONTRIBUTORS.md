@@ -961,3 +961,8 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+### Name: [Rachit Khare] (https://github.com/ShadowFax1731)
+- Place: Satna, Madhya Pradesh, India
+- Bio: Student
+- Github: [ShadowFax1731] (https://github.com/ShadowFax1731)
