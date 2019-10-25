@@ -961,3 +961,8 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Naman Rai](https://github.com/namanrai)
+- Place: Kanpur,India
+- Bio: Student
+- GitHub: [Naman Rai](https://github.com/namanrai)
