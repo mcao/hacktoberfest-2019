@@ -522,3 +522,8 @@
 - Place: Seoul, Republic of Korea
 - Bio: Student
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
+
+#### Name: [Rajdeep Chandra](http://github.com/Rajdeepc)
+- Place: Bangalore, India
+- Bio: Front End Developer
+- GitHub: [Rajdeepc](http://github.com/Rajdeepc)
