@@ -1,7 +1,59 @@
+#### Name: [Alaor Resende](https://github.com/alaor)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [alaor](https://github.com/alaor)
+
+#### Name: [Rafael Baron](https://github.com/baronrafael)
+- Place: Barcelona, Venezuela
+- Bio: Software Developer
+- GitHub: [baronrafael](https://github.com/baronrafael)
+
+#### Name: [Mahesh Jaganiya](https://github.com/jagzmz)
+- Place: Nagpur, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [Mahesh Jaganiya](https://github.com/jagzmz)
+
+#### Name: [Jhonattan Cabral](https://github.com/jhon3)
+- Place: Natal, Brazil
+- Bio: Student
+- GitHub: [jhon3](https://github.com/jhon3)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
+- Place: Bucharest, Romania
+- Bio: Student
+- GitHub: [Marinescu Sebastian](https://github.com/sebika)
+
+﻿#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Monroe, Louisiana, United States
+- Bio: developer
+- GitHub: [Scott Mercer](https://github.com/scottmercer)
+
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
 - Bio: Software Developer
 - GitHub: [Wolfy7](https://github.com/Wolfy7)
+
+#### Name:Surya Madhavan
+- Place: Mumbai,India
+- Bio: Student
+- GitHub: [greykoalacode](https://github.com/greykoalacode)
+
+#### Name:Mulubwa Chungu
+- Place: Lusaka, Zambia
+- Bio: Back-end developer
+- GitHub: [Mulubwa17] (https://github.com/Mulubwa17)
+
+
+#### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Satyajeet Patnayak](https://github.com/satyaa1996)
+
+#### Name: [Sahini Nayanthara](https://github.com/sahininayanthara)
+- Place: colombo, Sri Lanka
+- Bio: Student
+- GitHub: [sahininayanthara](https://github.com/sahininayanthara)
+
 
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
@@ -23,15 +75,31 @@
 - Bio: Cryptocurrency Enthusiast.
 - GitHub: [moodiest](https://github.com/moodiest)
 
+
+#### Name: [Aman Kumar Gupta](https://github.com/akg2000)
+- Place: New Delhi,India
+- Bio: Student,Developer.
+- GitHub: [akg2000](https://github.com/akg2000)
+
 #### Name: [Ana Carolina Ferreira](https://github.com/anacdf)
 - Place: Rio Grande do Sul, Brasil
 - Bio: Student at PUCRS University
 - GitHub: [Ana Carolina](https://github.com/anacdf)
 
+#### Name: [Fayaz Azeem P](https://github.com/Fayazazeemp)
+- Place: kerala,india
+- Bio: Student at cochin University
+- GitHub: [Fayazazeemp](https://github.com/Fayazazeemp)
+
 #### Name: [Evgeny Kasian](https://github.com/ievgenk)
 - Place: Vancouver, Canada
 - Bio: Proect manager turned developer
 - GitHub: [Evgeny Kasian](https://github.com/ievgenk)
+
+#### Name: [Akshay Jain](https://github.com/aksJain0)
+- Place: Delhi, India
+- Bio: Software developer
+- GitHub: [aksJain0](https://github.com/aksJain0)
 
 #### Name: [Michael Cao](https://github.com/mcao)
 - Place: Pennsylvania, USA
@@ -42,6 +110,11 @@
 - Place: Andalucia, ESP
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
+#### Name: [Angeliki Loukatou](https://github.com/AngelikiLk)
+- Place: Birmingham, UK
+- Bio: Modelling Analyst in Energy Systems Catapult
+- GitHub: [Angeliki Loukatou](https://github.com/AngelikiLk)
 
 #### Name: [Matt Ackard](https://github.com/mattackard)
 - Place: California, USA
@@ -87,6 +160,11 @@
 - Place: St. Louis, MO
 - Bio: Random person that codes & plays Overwatch
 - Github: [redraskal](https://github.com/redraskal)
+
+#### Name: [Alejandro Garcia](https://github.com/OwboxAl3x)
+- Place: Andalucia, ESP
+- Bio: Student at Universidad de Granada
+- GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
 
 #### Name: [Kelsey Cooper](https://github.com/kelseydcooper)
 - Place: Massachusetts, USA
@@ -518,12 +596,22 @@
 - Bio: Student
 - GitHub: [Lukas Scholz](https://github.com/agarwalpooja)
 
+#### Name: [Siddhant Mund](https://github.com/iamsid2)
+- Place: Bhubaneswar, Odisha
+- Bio: Student
+- GitHub: [Siddhant Mund](https://github.com/iamsid2)
+
+### Name: [Dayitva Goel](https://github.com/Dayitva)
+- Place: Karawang, Indonesia
+- Bio: Senior School Garduate from DPS Indonesia
+- GitHub: [Dayitva Goel](https://github.com/Dayitva)
+
+#### Name: [Malvika Sharma](https://github.com/MalvikaSh)
+- Place: Jaipur, Rajasthan
+- Bio: Student
+- Github: [MalvikaSh](https://github.com/MalvikaSh)
+
 #### Name: [Taewan Park](https://github.com/Taewan-P)
 - Place: Seoul, Republic of Korea
 - Bio: Student
 - GitHub: [Taewan-P](https://github.com/Taewan-P)
-
-#### Name: [Rajdeep Chandra](http://github.com/Rajdeepc)
-- Place: Bangalore, India
-- Bio: Front End Developer
-- GitHub: [Rajdeepc](http://github.com/Rajdeepc)
