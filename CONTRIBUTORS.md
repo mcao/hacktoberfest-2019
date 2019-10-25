@@ -829,3 +829,8 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Onikoyi Damola Olutoba](https://github.com/Olutobz)
+- Place: Lagos, Nigeria
+- Bio: Android Developer
+- Github: [Olutobz](https://github.com/Olutobz)
+
