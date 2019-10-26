@@ -966,3 +966,18 @@
 - Place: Quezon City, Philippines
 - Bio: Junior Web Developer
 - GitHub: [reviter](https://github.com/reviter)
+
+#### Name: [Joel D](https://github.com/sudo-glitch)
+- Place: kerala,india
+- Bio: Student
+- GitHub: [sudo-glitch](https://github.com/sudo-glitch)
+
+#### Name: [Chandan](https://github.com/chandan-reddy-k)
+- Place: Chennai, India
+- Bio: Developer
+- GitHub: [chandan-reddy-k](https://github.com/chandan-reddy-k)
+
+#### Name: [Mohammed Aamir Khan](https://github.com/aamirv1)
+- Place: Nagda, India
+- Bio: Curious Learner, Programmer, worked in 7+ Languages.
+- GitHub: [aamirv1](https://github.com/aamirv1)
