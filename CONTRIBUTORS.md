@@ -960,7 +960,12 @@
 #### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
 - Place: Bhubaneswar,India
 - Bio: Student
-- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh).
+- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Stephene Canciller](https://github.com/reviter)
+- Place: Quezon City, Philippines
+- Bio: Junior Web Developer
+- GitHub: [reviter](https://github.com/reviter)
 
 #### Name: [Joel D](https://github.com/sudo-glitch)
 - Place: kerala,india
