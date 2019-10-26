@@ -966,3 +966,8 @@
 - Place: Chennai, India
 - Bio: Developer
 - GitHub: [chandan-reddy-k](https://github.com/chandan-reddy-k)
+
+#### Name: [Mohammed Aamir Khan](https://github.com/aamirv1)
+- Place: Nagda, India
+- Bio: Curious Learner, Programmer, worked in 7+ Languages.
+- GitHub: [aamirv1](https://github.com/aamirv1)
