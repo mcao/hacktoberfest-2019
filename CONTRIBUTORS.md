@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
 
+#### Name: [Mandeep Singh](https://github.com/honey2156)
+- Place: Bengaluru, India
+- Bio: Software Developer
+- GitHub: [honey2156](https://github.com/honey2156)
+
 #### Name: [Alaor Resende](https://github.com/alaor)
 - Place: BH, Brazil
 - Bio: Software Developer
