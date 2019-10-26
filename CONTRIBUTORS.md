@@ -1,7 +1,37 @@
-﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
+#### Name: [Douglas Rodrigues](https://github.com/dougefr)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [dougefr](https://github.com/dougefr)
+
+#### Name: [Alaor Resende](https://github.com/alaor)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [alaor](https://github.com/alaor)
+
+#### Name: [Rafael Baron](https://github.com/baronrafael)
+- Place: Barcelona, Venezuela
+- Bio: Software Developer
+- GitHub: [baronrafael](https://github.com/baronrafael)
+
+#### Name: [Mahesh Jaganiya](https://github.com/jagzmz)
+- Place: Nagpur, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [Mahesh Jaganiya](https://github.com/jagzmz)
+
+#### Name: [Jhonattan Cabral](https://github.com/jhon3)
+- Place: Natal, Brazil
+- Bio: Student
+- GitHub: [jhon3](https://github.com/jhon3)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
+
+﻿#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Monroe, Louisiana, United States
+- Bio: developer
+- GitHub: [Scott Mercer](https://github.com/scottmercer)
 
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
@@ -13,10 +43,22 @@
 - Bio: Student
 - GitHub: [greykoalacode](https://github.com/greykoalacode)
 
+#### Name:Mulubwa Chungu
+- Place: Lusaka, Zambia
+- Bio: Back-end developer
+- GitHub: [Mulubwa17] (https://github.com/Mulubwa17)
+
+
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
 - Bio: Student
 - GitHub: [Satyajeet Patnayak](https://github.com/satyaa1996)
+
+#### Name: [Sahini Nayanthara](https://github.com/sahininayanthara)
+- Place: colombo, Sri Lanka
+- Bio: Student
+- GitHub: [sahininayanthara](https://github.com/sahininayanthara)
+
 
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
@@ -37,6 +79,12 @@
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
 - GitHub: [moodiest](https://github.com/moodiest)
+
+
+#### Name: [Aman Kumar Gupta](https://github.com/akg2000)
+- Place: New Delhi,India
+- Bio: Student,Developer.
+- GitHub: [akg2000](https://github.com/akg2000)
 
 #### Name: [Ana Carolina Ferreira](https://github.com/anacdf)
 - Place: Rio Grande do Sul, Brasil
@@ -67,6 +115,11 @@
 - Place: Andalucia, ESP
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
+#### Name: [Angeliki Loukatou](https://github.com/AngelikiLk)
+- Place: Birmingham, UK
+- Bio: Modelling Analyst in Energy Systems Catapult
+- GitHub: [Angeliki Loukatou](https://github.com/AngelikiLk)
 
 #### Name: [Matt Ackard](https://github.com/mattackard)
 - Place: California, USA
@@ -735,7 +788,7 @@
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
 
 #### Name: [Kartikay Bansal](https://github.com/KartikayB)
-- Place: India, Greater Noida 
+- Place: India, Greater Noida
 - Bio: Student
 - GitHub: [KartikayB]https://github.com/KartikayB
 
@@ -766,7 +819,7 @@
 
 #### Name: [DCox2016](https://github.com/DCox2016)
 - Place: Gainesville, Florida USA
-- Bio: Web Developer/ L2 Support Engineer / Instructor 
+- Bio: Web Developer/ L2 Support Engineer / Instructor
 - GitHub: [DCox2016](https://github.com/DCox2016)
 
 #### Name: [Gokulakannan S](https://github.com/GokulParzival)
@@ -811,7 +864,7 @@
 
 #### Name: [Alfredo Valle](https://github.com/alvalle09)
 - Place: San Benito, Tx, USA
-- Bio: Web Dev 
+- Bio: Web Dev
 - GitHub: [alvalle09](https://github.com/alvalle09)
 
 #### Name: [Tanish Gupta](https://github.com/d0ppler12)
@@ -833,4 +886,3 @@
 - Place: Lagos, Nigeria
 - Bio: Student, Software Developer
 - GitHub: [Olutobz](https://github.com/Olutobz)
-
