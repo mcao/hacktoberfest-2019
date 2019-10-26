@@ -961,3 +961,8 @@
 - Place: Bhubaneswar,India
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Mohammed Aamir Khan](https://github.com/aamirv1)
+- Place: Nagda, India
+- Bio: Curious Learner, Programmer, worked in 7+ Languages.
+- GitHub: [aamirv1](https://github.com/aamirv1)
