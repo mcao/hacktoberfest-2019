@@ -1002,3 +1002,8 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### Name: [George Devasia](https://github.com/georgedevasia0)
+- Place: Mangalore, India
+- Bio: Self learner, Developer, Engineer
+- Github: [georgedevasia0](https://github.com/georgedevasia0)
