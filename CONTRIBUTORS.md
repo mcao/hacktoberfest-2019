@@ -960,7 +960,12 @@
 #### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
 - Place: Bhubaneswar,India
 - Bio: Student
-- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh).
+
+#### Name: [Joel D](https://github.com/sudo-glitch)
+- Place: kerala,india
+- Bio: Student
+- GitHub: [sudo-glitch](https://github.com/sudo-glitch)
 
 #### Name: [Chandan](https://github.com/chandan-reddy-k)
 - Place: Chennai, India
