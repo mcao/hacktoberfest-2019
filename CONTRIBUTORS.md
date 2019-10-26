@@ -1002,3 +1002,8 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### Name: [Damola Olutoba Onikoyi](https://github.com/Olutobz)
+- Place: Lagos, Nigeria
+- Bio: Tech enthusiast, Android and web developer
+- GitHub: [Olutoba](https://github.com/Olutobz)
