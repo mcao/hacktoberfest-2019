@@ -1002,3 +1002,8 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### name [Eric Loucks](https://github.com/EricBot89)
+- Place: New York
+- Bio: Coder and stuff
+- Github: [EricBot89](https://github.com/EricBot89)
