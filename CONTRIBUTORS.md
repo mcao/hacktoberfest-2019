@@ -978,6 +978,11 @@
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
 
+#### Name: [Cristina Dias](https://github.com/crisgit)
+- Place: Rio de Janeiro, Brasil
+- Bio: Web Developer 
+- GitHub: [crisgit](https://github.com/crisgit)
+
 #### Name: [Naman Rai](https://github.com/namanrai)
 - Place: Kanpur,India
 - Bio: Student
