@@ -973,6 +973,11 @@
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
 
+#### Name: [Naman Rai](https://github.com/namanrai)
+- Place: Kanpur,India
+- Bio: Student
+- GitHub: [Naman Rai](https://github.com/namanrai)
+
 #### Name: [Shubham Saurav](https://github.com/sauravshub1)
 - Place: IIT Mandi,Mandi,India
 - Bio: Student
