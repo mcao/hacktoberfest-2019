@@ -1037,3 +1037,8 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### Name: [Ayush Nagal](https://github.com/ayush163)
+- Place: Delhi, India
+- Bio: Learner, Programmer
+- GitHub: [ayush163](https://github.com/ayush163)
