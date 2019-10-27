@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Marcos Wenneton Araújo](https://github.com/wenneton)
+- Place: Manaus, Brazil
+- Bio: Software Developer, Data Scientist, Student
+- GitHub: [wenneton](https://github.com/wenneton)
