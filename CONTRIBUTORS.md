@@ -973,6 +973,11 @@
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
 
+#### Name: [Tim Bird](https://github.com/Timbird)
+- Place: Wales, UK
+- Bio: NHS Software Developer
+- GitHub: [Tim Bird](https://github.com/Timbird)
+
 #### Name: [Adailton Palhano](https://github.com/adailtonasp)
 - Place: PI, Brazil
 - Bio: student
