@@ -973,6 +973,11 @@
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
 
+#### Name: [Christian Findsen](https://github.com/findsen)
+- Place: Malmo, Sweden
+- Bio: Software Engineer
+- GitHub: [Findsen](https://github.com/Findsen)
+
 #### Name: [Vinicius Silva](https://github.com/viniciusfdasilva)
 - Place: Belo Horizonte,Minas Gerais,Brasil
 - Bio: Student
