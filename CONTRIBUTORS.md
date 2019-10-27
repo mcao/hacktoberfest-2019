@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
 
+#### Name: [Mandeep Singh](https://github.com/honey2156)
+- Place: Bengaluru, India
+- Bio: Software Developer
+- GitHub: [honey2156](https://github.com/honey2156)
+
 #### Name: [Alaor Resende](https://github.com/alaor)
 - Place: BH, Brazil
 - Bio: Software Developer
@@ -973,6 +978,41 @@
 - Bio: Student
 - GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
 
+#### Name: [Naman Rai](https://github.com/namanrai)
+- Place: Kanpur,India
+- Bio: Student
+- GitHub: [Naman Rai](https://github.com/namanrai)
+
+#### Name: [Shubham Saurav](https://github.com/sauravshub1)
+- Place: IIT Mandi,Mandi,India
+- Bio: Student
+- Github: [sauravshub1](https://github.com/sauravshub1)
+
+### Name: [Rachit Khare] (https://github.com/ShadowFax1731)
+- Place: Satna, Madhya Pradesh, India
+- Bio: Student
+- Github: [ShadowFax1731] (https://github.com/ShadowFax1731)
+
+#### Name: [Chuck Underwood](https://github.com/chillieguy)
+- Place: Albany, OR USA
+- Bio: Learning to code one line at a time.
+- GitHub: [chillieguy](https://github.com/chillieguy)
+
+#### Name: [Christian Findsen](https://github.com/findsen)
+- Place: Malmo, Sweden
+- Bio: Software Engineer
+- GitHub: [Findsen](https://github.com/Findsen)
+
+#### Name: [Vinicius Silva](https://github.com/viniciusfdasilva)
+- Place: Belo Horizonte,Minas Gerais,Brasil
+- Bio: Student
+- GitHub: [viniciusfdasilva](https://github.com/viniciusfdasilva)
+
+#### Name: [Tim Bird](https://github.com/Timbird)
+- Place: Wales, UK
+- Bio: NHS Software Developer
+- GitHub: [Tim Bird](https://github.com/Timbird)
+
 #### Name: [Adailton Palhano](https://github.com/adailtonasp)
 - Place: PI, Brazil
 - Bio: student
@@ -1007,3 +1047,13 @@
 - Place: New York
 - Bio: Coder and stuff
 - Github: [EricBot89](https://github.com/EricBot89)
+
+#### Name: [Fernando Ugarte ](https://github.com/Hangar205)
+- Place: Monterrey, Mexico
+- Bio: Data Engineer, Programmer, worked in 7+ Languages.
+- GitHub: [Hangar205](https://github.com/Hangar205)
+
+#### Name: [Ayush Nagal](https://github.com/ayush163)
+- Place: Delhi, India
+- Bio: Learner, Programmer
+- GitHub: [ayush163](https://github.com/ayush163)
