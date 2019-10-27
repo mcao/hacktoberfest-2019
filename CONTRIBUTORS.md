@@ -1043,6 +1043,11 @@
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
 
+#### Name: [Fernando Ugarte ](https://github.com/Hangar205)
+- Place: Monterrey, Mexico
+- Bio: Data Engineer, Programmer, worked in 7+ Languages.
+- GitHub: [Hangar205](https://github.com/Hangar205)
+
 #### Name: [Ayush Nagal](https://github.com/ayush163)
 - Place: Delhi, India
 - Bio: Learner, Programmer
