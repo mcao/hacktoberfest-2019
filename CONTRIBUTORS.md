@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Shanky Silva](https://github.com/ShankyJS)
+- Place: San Salvador, El Salvador
+- Bio: Cloud Native, Data Science, Ruby programmer.
+- Github: [ShankyJS](https://github.com/ShankyJS)
