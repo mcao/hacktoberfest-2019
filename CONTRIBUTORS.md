@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
 
+#### Name: [Rohit V](https://github.com/Rohitv97)
+- Place: Colchester, UK
+- Bio: Student
+- GitHub: [Rohitv97](https://github.com/Rohitv97)
+
 #### Name: [Mandeep Singh](https://github.com/honey2156)
 - Place: Bengaluru, India
 - Bio: Software Developer
