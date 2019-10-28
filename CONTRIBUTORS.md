@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Qmitry](https://github.com/qmitry)
+- Place: Denpasar, Indonesia
+- Bio: Developer
+- GitHub: [qmitry](https://github.com/qmitry)
