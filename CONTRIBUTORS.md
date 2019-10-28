@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Samantha G](https://github.com/antashma)
+- Place: United States
+- Bio: Medical Assistant, Programmer
+- GitHub: [Antahsma](https://github.com/antashma)
