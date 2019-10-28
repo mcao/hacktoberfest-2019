@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Siddharth Gupta](https://github.com/Siddharth-gupta99)
+- Place: Mandi, India
+- Bio: Learner, Programmer
+- GitHub: [Siddharth-gupta99](https://github.com/Siddharth-gupta99)
