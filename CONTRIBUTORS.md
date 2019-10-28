@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Gage Vander Clay](https://github.com/gvanderclay)
+- Place: Michigan
+- Bio: Software Devloper
+- Github: [gvanderclay](https://github.com/gvanderclay)
