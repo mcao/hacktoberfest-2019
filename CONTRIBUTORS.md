@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Riya Jain](https://github.com/Riya-11/)
+- Place: Chennai, India
+- Bio: Programmer, ML Enthusiast
+- GitHub: [Riya-11](https://github.com/Riya-11/)
