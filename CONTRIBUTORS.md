@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [James Rutger](https://github.com/jayrutger)
+- Place: Florida
+- Bio: Junior Software Engineer
+- GitHub: [jayrutger](https://github.com/jayrutger)
