@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [alaor](https://github.com/alaor)
 
+#### Name: [Matuzael Dias](https://github.com/matuzael)
+- Place: RN, Brazil
+- Bio: Student
+- GitHub: [Matuzael](https://github.com/matuzael)
+
 #### Name: [Rafael Baron](https://github.com/baronrafael)
 - Place: Barcelona, Venezuela
 - Bio: Software Developer
