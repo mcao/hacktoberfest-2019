@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Gustavo Soares](https://github.com/gsoare2)
+- Place: São José dos Campos, Brasil
+- Bio: Front-end developer
+- Github: [gsoare2](https://github.com/gsoare2)
