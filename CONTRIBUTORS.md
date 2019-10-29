@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Hortência](https://github.com/HortenciaArliane)
+- Place: Natal, RN, Brasil
+- Bio: Student
+- GitHub: [HortenciaArliane](https://github.com/HortenciaArliane)
