@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Rodrigo Soares](https://github.com/Rodrigo-18)
+- Place: RN, Brazil
+- Bio: Estudante
+- GitHub: [Rodrigo-18](https://github.com/Rodrigo-18)
