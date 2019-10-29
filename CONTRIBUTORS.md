@@ -980,7 +980,7 @@
 
 #### Name: [Cristina Dias](https://github.com/crisgit)
 - Place: Rio de Janeiro, Brasil
-- Bio: Web Developer 
+- Bio: Web Developer
 - GitHub: [crisgit](https://github.com/crisgit)
 
 #### Name: [Naman Rai](https://github.com/namanrai)
@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Scott Tran](https://github.com/NotTheBest)
+- Place: United States
+- Bio: Just a normal dude
+- GitHub: [Scott Tran](https://github.com/NotTheBest)
