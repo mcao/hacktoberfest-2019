@@ -64,6 +64,10 @@
 - Bio: Student
 - GitHub: [sahininayanthara](https://github.com/sahininayanthara)
 
+#### Name: [Tristan](https://github.com/liopia)
+- Place: Portland, Oregon, USA
+- Bio: Developer who should be doing more substantial pull requests for Hacktoberfest. I swear next year I'll have the time.
+- GitHub: [Liopia](https://github.com/liopia)
 
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
