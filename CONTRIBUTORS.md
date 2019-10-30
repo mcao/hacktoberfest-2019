@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Juciane Barros](https://github.com/JucianeBarros)
+- Place: Ceará-Mirim, Brazil
+- Bio: Student
+- GitHub: [JucianeBarros](https://github.com/JucianeBarros)
