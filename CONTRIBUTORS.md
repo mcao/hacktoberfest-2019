@@ -1067,3 +1067,9 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Ayush Nagal](https://github.com/spao234)
+- Place: Rio de Janeiro, Brazil
+- Bio: Analista de Sistemas
+- GitHub: [spao234](https://github.com/spao234)
+
