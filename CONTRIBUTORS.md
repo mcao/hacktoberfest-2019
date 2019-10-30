@@ -3,6 +3,11 @@
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
 
+#### Name: [Bernardo Vilela](https://github.com/1brnardo)
+- Place: RN, Brazil
+- Bio: Software Developer
+- GitHub: [1brnardo](https://github.com/1brnardo)
+
 #### Name: [Mandeep Singh](https://github.com/honey2156)
 - Place: Bengaluru, India
 - Bio: Software Developer
