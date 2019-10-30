@@ -53,6 +53,10 @@
 - Bio: Back-end developer
 - GitHub: [Mulubwa17] (https://github.com/Mulubwa17)
 
+#### Name: [Juliana Vitória](https://github.com/JulianaVitoria629)
+- Place: Rio Grande do Norte, Brasil
+- Bio: Student
+- GitHub: [JulianaVitoria629](https://github.com/JulianaVitoria629)
 
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
