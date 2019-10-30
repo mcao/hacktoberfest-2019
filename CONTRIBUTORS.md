@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Ashutosh Aneja](https://github.com/ashutoshaneja)
+- Place: Jalandhar, Punjab, India
+- Bio: Technophile, Java Dev enthusiast of programming and blogging.
+- GitHub: [ashutoshaneja](https://github.com/ashutoshaneja)
