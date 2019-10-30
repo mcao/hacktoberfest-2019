@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Icaro Cristofolini](https://github.com/Icaruspooky)
+- Place: Santa Catarina, Brazil
+- Bio: Back-end developer
+- GitHub: [Icaruspooky](https://github.com/Icaruspooky)
