@@ -1,4 +1,9 @@
-#### Name: [Douglas Rodrigues](https://github.com/dougefr)
+#### Name: [Douglas Rodrigues](https://github.com/aglaildison)
+- Place: PB, Brazil
+- Bio: Student
+- GitHub: [aglaildison](https://github.com/aglaildison)
+
+#### Name: [Aglaildison Ferreira](https://github.com/dougefr)
 - Place: BH, Brazil
 - Bio: Software Developer
 - GitHub: [dougefr](https://github.com/dougefr)
