@@ -988,6 +988,11 @@
 - Bio: Student
 - GitHub: [Naman Rai](https://github.com/namanrai)
 
+#### Name: [Abhishek Chahar](https://github.com/Devil1729)
+- Place: U.P., India
+- Bio: Student
+- GitHub: [Abhishek Chahar](https://github.com/Devil1729)
+
 #### Name: [Shubham Saurav](https://github.com/sauravshub1)
 - Place: IIT Mandi,Mandi,India
 - Bio: Student
