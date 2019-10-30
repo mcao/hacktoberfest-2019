@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Lee Warnock](https://github.com/leewarnock)
+- Place: Austin, TX, USA
+- Bio: Padwan Solutions Architect
+- GitHub: [LeeWarnock](https://github.com/leewarnock)
