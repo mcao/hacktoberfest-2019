@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Harpreet Goraya](https://github.com/hagoraya)
+- Place: Toronto, Canada
+- Bio: CS Srudent, Web Design, UX Design
+- GitHub: [hagoraya](https://github.com/hagoraya)
