@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Kurt Bauer](https://github.com/krtb)
+- Place: New York, New York
+- Bio: Full-Stack Engineer & cook extraordinaire
+- Github: [krtb](https://github.com/krtb)
