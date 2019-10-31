@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Rafael Geronimo](https://github.com/rafaelgeronimo)
+- Place: Curitiba, Brazil
+- Bio: Support Analist
+- GitHub: [rafaelgeronimo](https://github.com/rafaelgeronimo)
