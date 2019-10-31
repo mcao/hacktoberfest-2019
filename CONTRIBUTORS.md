@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Walisson Farias](https://github.com/alissonfariias)
+- Place: Campina Grande, Brasil
+- Bio: Student
+- GitHub: [alissonfariias](https://github.com/alissonfariias)
