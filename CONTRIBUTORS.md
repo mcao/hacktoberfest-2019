@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes)
+- Place: Brasília, Brazil
+- Bio: physics student, Programmer, bartender and many more stuff
+- GitHub: [AlandouglasMendes](https://github.com/AlandouglasMendes)
