@@ -1067,3 +1067,11 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Nishant singh](https://github.com/NX007KTR)
+- Place: UP, India
+- Bio: Learner
+- GitHub: [NX007KTR](https://github.com/NX007KTR)
+
+
+
