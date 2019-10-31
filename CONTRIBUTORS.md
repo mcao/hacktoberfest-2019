@@ -1067,3 +1067,9 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [DIVYA ROSE RAJU](https://github.com/ROZZ01)
+- Place: Kerala, India
+- Bio: Learner, Programmer
+- GitHub: [ROZZ01](https://github.com/ROZZ01)
+
