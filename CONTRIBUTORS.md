@@ -497,3 +497,8 @@
 - Place: Macomb, Illinois, USA
 - Bio: Rapper, Hacker, Farmer, Show Cattle Enthusiast
 - Github: [timmay54] (https://github.com/timmay54)
+
+#### Name: [Billy Gretty] (https://github.com/aronsince4tron)
+- Place: Middleton, Wisconson, USA
+- Bio: Aspiring mobile app developer using Java and Kotlin
+- Github: [aronsince4tron] (https://github.com/aronsince4tron)
