@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Ayush Nagal](https://github.com/ayush163)
+- Place: Las Vegas, NV
+- Bio: DevOps Engineer, Coder, Eternal Student
+- GitHub: [ayush163](https://github.com/thunatos.com)
