@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Édio Cerati Neto](https://github.com/darthHunterous)
+- Place: São Paulo, Brazil
+- Bio: CS Student, Programmer
+- GitHub: [darthHunterous](https://github.com/darthHunterous)
