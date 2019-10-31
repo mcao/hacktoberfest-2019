@@ -1,7 +1,42 @@
-﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
+#### Name: [Douglas Rodrigues](https://github.com/dougefr)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [dougefr](https://github.com/dougefr)
+
+#### Name: [Mandeep Singh](https://github.com/honey2156)
+- Place: Bengaluru, India
+- Bio: Software Developer
+- GitHub: [honey2156](https://github.com/honey2156)
+
+#### Name: [Alaor Resende](https://github.com/alaor)
+- Place: BH, Brazil
+- Bio: Software Developer
+- GitHub: [alaor](https://github.com/alaor)
+
+#### Name: [Rafael Baron](https://github.com/baronrafael)
+- Place: Barcelona, Venezuela
+- Bio: Software Developer
+- GitHub: [baronrafael](https://github.com/baronrafael)
+
+#### Name: [Mahesh Jaganiya](https://github.com/jagzmz)
+- Place: Nagpur, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [Mahesh Jaganiya](https://github.com/jagzmz)
+
+#### Name: [Jhonattan Cabral](https://github.com/jhon3)
+- Place: Natal, Brazil
+- Bio: Student
+- GitHub: [jhon3](https://github.com/jhon3)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
+
+﻿#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Monroe, Louisiana, United States
+- Bio: developer
+- GitHub: [Scott Mercer](https://github.com/scottmercer)
 
 #### Name: [André Decher](https://github.com/Wolfy7)
 - Place: Buseck, Germany
@@ -13,10 +48,22 @@
 - Bio: Student
 - GitHub: [greykoalacode](https://github.com/greykoalacode)
 
+#### Name:Mulubwa Chungu
+- Place: Lusaka, Zambia
+- Bio: Back-end developer
+- GitHub: [Mulubwa17] (https://github.com/Mulubwa17)
+
+
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
 - Bio: Student
 - GitHub: [Satyajeet Patnayak](https://github.com/satyaa1996)
+
+#### Name: [Sahini Nayanthara](https://github.com/sahininayanthara)
+- Place: colombo, Sri Lanka
+- Bio: Student
+- GitHub: [sahininayanthara](https://github.com/sahininayanthara)
+
 
 #### Name: [Samantha Walker](https://github.com/samanthawalker)
 - Place: Salt Lake City, Utah, USA
@@ -37,6 +84,12 @@
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
 - GitHub: [moodiest](https://github.com/moodiest)
+
+
+#### Name: [Aman Kumar Gupta](https://github.com/akg2000)
+- Place: New Delhi,India
+- Bio: Student,Developer.
+- GitHub: [akg2000](https://github.com/akg2000)
 
 #### Name: [Ana Carolina Ferreira](https://github.com/anacdf)
 - Place: Rio Grande do Sul, Brasil
@@ -67,6 +120,11 @@
 - Place: Andalucia, ESP
 - Bio: Student at Universidad de Granada
 - GitHub: [Alejandro Garcia](https://github.com/OwboxAl3x)
+
+#### Name: [Angeliki Loukatou](https://github.com/AngelikiLk)
+- Place: Birmingham, UK
+- Bio: Modelling Analyst in Energy Systems Catapult
+- GitHub: [Angeliki Loukatou](https://github.com/AngelikiLk)
 
 #### Name: [Matt Ackard](https://github.com/mattackard)
 - Place: California, USA
@@ -735,7 +793,7 @@
 - GitHub: [soumiyamathur](https://github.com/soumiyamathur)
 
 #### Name: [Kartikay Bansal](https://github.com/KartikayB)
-- Place: India, Greater Noida 
+- Place: India, Greater Noida
 - Bio: Student
 - GitHub: [KartikayB]https://github.com/KartikayB
 
@@ -766,7 +824,7 @@
 
 #### Name: [DCox2016](https://github.com/DCox2016)
 - Place: Gainesville, Florida USA
-- Bio: Web Developer/ L2 Support Engineer / Instructor 
+- Bio: Web Developer/ L2 Support Engineer / Instructor
 - GitHub: [DCox2016](https://github.com/DCox2016)
 
 #### Name: [Gokulakannan S](https://github.com/GokulParzival)
@@ -811,7 +869,7 @@
 
 #### Name: [Alfredo Valle](https://github.com/alvalle09)
 - Place: San Benito, Tx, USA
-- Bio: Web Dev 
+- Bio: Web Dev
 - GitHub: [alvalle09](https://github.com/alvalle09)
 
 #### Name: [Tanish Gupta](https://github.com/d0ppler12)
@@ -828,6 +886,187 @@
 - Place: Bnagalore,India
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
+
+#### Name: [Rafael Douglas](https://github.com/rafaeldougllas)
+- Place: Pernambuco,Brazil
+- Bio: Software Developer
+- GitHub: [rafaeldougllas](https://github.com/rafaeldougllas)
+
+
+#### Name: [Kasidech Chumkun](https://github.com/Kawaeee)
+- Place: Bangkok,Thailand
+- Bio: Student
+- GitHub: [Kawaeee](https://github.com/Kawaeee)
+
+#### Name: [Elloá B. Guedes](https://github.com/elloa)
+- Place: Brazil
+- Bio: Professor
+- GitHub: [elloa](https://github.com/elloa)
+
+#### Name: [Alwi Bastomi](https://github.com/alwibastomi)
+- Place: Kediri, Indonesia
+- Bio: Fullstack Developer & Designer
+- GitHub: [alwibastomi](https://github.com/alwibastomi)
+
+#### Name : [surarijit] (https://github.com/surarijit)
+-Place : Durgapur, India
+-Bio : Web Developer and Open Source Enthusiast
+-Github : [surarijit] (https://github.com/surarijit]
+
+#### Name: [Rebecca McGowan](https://github.com/rebecca-mcgowan)
+- Place: Salt Lake City, UT
+- Bio: Software Development Engineer
+- GitHub: [rebecca-mcgowan](https://github.com/rebecca-mcgowan)
+
+#### Name: [Krish Yadav](https://github.com/Krish-Yadav-2192)
+- Place: Raleigh, USA
+- Bio: Student
+- GitHub: [krish-yadav-2192](https://github.com/Krish-Yadav-2192)
+
+#### Name: [Eduardo Peregrino](https://github.com/eperegrino)
+- Place: Recife, Pernambuco, Brasil
+- Bio: Developer
+- GitHub: [eperegrino](https://github.com/eperegrino)
+
+#### Name:Ashish Sethi
+- Place: Delhi,India
+- Bio: Student
+- GitHub: [geekysethi](https://github.com/geekysethi)
+
+#### Name: [Rigo Ramírez](https://github.com/reegoram)
+- Place: Tabasco, Mexico
+- Bio: Software Developer
+- GitHub: [reegoram](https://github.com/reegoram)
+
+#### Name: [Hugo Erazo](https://github.com/hugogilmar)
+- Place: San Salvador, El Salvador
+- Bio: Software Developer
+- GitHub: [hugogilmar](https://github.com/hugogilmar)
+
+#### Name: [Nazario Benavides](https://github.com/nazmanager1)
+- Place: Monterrey,Mexico
+- Bio: Software Developer
+- GitHub: [nazmanager1](https://github.com/nazmanager1)
+
+#### Name: [Wathin Sonnukij](https://github.com/iamwee)
+- Place: Bangkok, Thailand
+- Bio: Software Engineer
+- GitHub: [iamwee](https://github.com/iamwee)
+
+### Name: [DHanuesh RC](https://github.com/rcs10)
+- Place: Bangalore,India
+- Bio: Student
+- GitHub: [rcs10](https://github.com/rcs10)
+
+#### Name: [Scott Mercer](https://github.com/scottmercer)
+- Place: Grayson, LA, USA
+- Bio: Dad, Software Developer
+- GitHub: [scottmercer](https://github.com/scottmercer)
+
+#### Name: [Janvi Bhagiya](https://github.com/JSbhagiya)
+- Place: Gujarat,India
+- Bio: Student
+- GitHub: [JSbhagiya](https://github.com/JSbhagiya)
+
+#### Name: [Steph Leazer](https://github.com/saleazer82)
+- Place: Oklahoma City, Oklahoma
+- Bio: IT Professional
+- GitHub: [saleazer82](https://github.com/saleazer82)
+
+#### Name: [Abhishek Pandit](https://github.com/abhishekiiitbh)
+- Place: Bhubaneswar,India
+- Bio: Student
+- GitHub: [abhishekiiitbh](https://github.com/abhishekiiitbh)
+
+#### Name: [Cristina Dias](https://github.com/crisgit)
+- Place: Rio de Janeiro, Brasil
+- Bio: Web Developer 
+- GitHub: [crisgit](https://github.com/crisgit)
+
+#### Name: [Naman Rai](https://github.com/namanrai)
+- Place: Kanpur,India
+- Bio: Student
+- GitHub: [Naman Rai](https://github.com/namanrai)
+
+#### Name: [Shubham Saurav](https://github.com/sauravshub1)
+- Place: IIT Mandi,Mandi,India
+- Bio: Student
+- Github: [sauravshub1](https://github.com/sauravshub1)
+
+### Name: [Rachit Khare] (https://github.com/ShadowFax1731)
+- Place: Satna, Madhya Pradesh, India
+- Bio: Student
+- Github: [ShadowFax1731] (https://github.com/ShadowFax1731)
+
+#### Name: [Chuck Underwood](https://github.com/chillieguy)
+- Place: Albany, OR USA
+- Bio: Learning to code one line at a time.
+- GitHub: [chillieguy](https://github.com/chillieguy)
+
+#### Name: [Christian Findsen](https://github.com/findsen)
+- Place: Malmo, Sweden
+- Bio: Software Engineer
+- GitHub: [Findsen](https://github.com/Findsen)
+
+#### Name: [Vinicius Silva](https://github.com/viniciusfdasilva)
+- Place: Belo Horizonte,Minas Gerais,Brasil
+- Bio: Student
+- GitHub: [viniciusfdasilva](https://github.com/viniciusfdasilva)
+
+#### Name: [Tim Bird](https://github.com/Timbird)
+- Place: Wales, UK
+- Bio: NHS Software Developer
+- GitHub: [Tim Bird](https://github.com/Timbird)
+
+#### Name: [Adailton Palhano](https://github.com/adailtonasp)
+- Place: PI, Brazil
+- Bio: student
+- GitHub: [Adailton Palhano](https://github.com/adailtonasp)
+
+#### Name: [Alankrita Shah](https://github.com/AlankritaShah)
+- Place: Udaipur,India
+- Bio: Android Developer
+- GitHub: [AlankritaShah](https://github.com/AlankritaShah)
+
+#### Name: [Stephene Canciller](https://github.com/reviter)
+- Place: Quezon City, Philippines
+- Bio: Junior Web Developer
+- GitHub: [reviter](https://github.com/reviter)
+
+#### Name: [Joel D](https://github.com/sudo-glitch)
+- Place: kerala,india
+- Bio: Student
+- GitHub: [sudo-glitch](https://github.com/sudo-glitch)
+
+#### Name: [Chandan](https://github.com/chandan-reddy-k)
+- Place: Chennai, India
+- Bio: Developer
+- GitHub: [chandan-reddy-k](https://github.com/chandan-reddy-k)
+
+#### Name: [Mohammed Aamir Khan](https://github.com/aamirv1)
+- Place: Nagda, India
+- Bio: Curious Learner, Programmer, worked in 7+ Languages.
+- GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### Name: [Damola Olutoba Onikoyi](https://github.com/Olutobz)
+- Place: Lagos, Nigeria
+- Bio: Tech enthusiast, Android and web developer
+- GitHub: [Olutoba](https://github.com/Olutobz)
+
+#### name [Eric Loucks](https://github.com/EricBot89)
+- Place: New York
+- Bio: Coder and stuff
+- Github: [EricBot89](https://github.com/EricBot89)
+
+#### Name: [Fernando Ugarte ](https://github.com/Hangar205)
+- Place: Monterrey, Mexico
+- Bio: Data Engineer, Programmer, worked in 7+ Languages.
+- GitHub: [Hangar205](https://github.com/Hangar205)
+
+#### Name: [Ayush Nagal](https://github.com/ayush163)
+- Place: Delhi, India
+- Bio: Learner, Programmer
+- GitHub: [ayush163](https://github.com/ayush163)
 
 #### Name: [Amith Bhat Nekkare](https://github.com/amithbhat1)
 - Place: Mangaluru, India
