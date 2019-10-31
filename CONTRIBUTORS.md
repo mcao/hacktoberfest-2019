@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Shagi G](https://github.com/ayush163)
+- Place: Colombo, Srilanka
+- Bio: Learner, Undergraduate
+- GitHub: [ShagiG](https://github.com/ShagiG)
