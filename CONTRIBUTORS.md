@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Aditya Jadhav](https://github.com/ADITYA1720)
+- Place: Pune, India.
+- Bio: Front End Web Developer
+- GitHub: [ADITYA1720](https://github.com/ADITYA1720)
