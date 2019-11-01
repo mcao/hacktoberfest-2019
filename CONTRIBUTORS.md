@@ -1067,3 +1067,6 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Shivam Kumar](https://github.com/shivampkumar)
+- Place: India
