@@ -1067,3 +1067,10 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Ayush Nagal](https://github.com/kalai338)
+- Place: Bangalore, India
+- Bio: Learner, Programmer
+- GitHub: [kalai338](https://github.com/kalai338)
+
+
