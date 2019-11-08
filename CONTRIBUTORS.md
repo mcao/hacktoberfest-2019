@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Aysha Thahseen R A](https://github.com/Thahseen02)
+- Place: Bengaluru, India
+- Bio: Programmer
+- GitHub: [Thahseen02](https://github.com/Thahseen02)
