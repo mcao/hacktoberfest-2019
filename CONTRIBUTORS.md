@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Jishan Bhattacharya](https://github.com/j16n)
+- Place: Kolkata, India
+- Bio: Student, Coder
+- Github: [J16N](https://github.com/j16n)
